@@ -1,0 +1,1039 @@
+{ "words" : [
+		{
+		  "singular" : "Adaldrida",
+		  "plural" : "Adaldridas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Adamanta",
+		  "plural" : "Adamantas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aerin",
+		  "plural" : "Aerins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ailinel",
+		  "plural" : "Ailinels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Almarian",
+		  "plural" : "Almarians",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Almarien",
+		  "plural" : "Almariens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Almiel",
+		  "plural" : "Almiels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Amareth",
+		  "plural" : "Amareths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Amarie",
+		  "plural" : "Amaries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ancalime",
+		  "plural" : "Ancalimes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Angelica",
+		  "plural" : "Angelicas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ar-Zimraphel",
+		  "plural" : "Ar-Zimraphels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arda",
+		  "plural" : "Ardas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aredhel",
+		  "plural" : "Aredhels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arwen",
+		  "plural" : "Arwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Asphodel",
+		  "plural" : "Asphodels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Belba",
+		  "plural" : "Belbas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bell",
+		  "plural" : "Bells",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Belladonna",
+		  "plural" : "Belladonnas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Beruthiel",
+		  "plural" : "Beruthiels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Berylla",
+		  "plural" : "Beryllas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Camellia",
+		  "plural" : "Camellias",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Celandine",
+		  "plural" : "Celandines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Celebrian",
+		  "plural" : "Celebrians",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Celebrindal",
+		  "plural" : "Celebrindals",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Daisy",
+		  "plural" : "Daisys",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dis",
+		  "plural" : "Diss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Donnamira",
+		  "plural" : "Donnamiras",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dora",
+		  "plural" : "Doras",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Earwen",
+		  "plural" : "Earwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eglantine",
+		  "plural" : "Eglantines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eilinel",
+		  "plural" : "Eilinels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elanor",
+		  "plural" : "Elanors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elbereth",
+		  "plural" : "Elbereths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eledhwen",
+		  "plural" : "Eledhwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elenna",
+		  "plural" : "Elennas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elenwe",
+		  "plural" : "Elenwes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elestirne",
+		  "plural" : "Elestirnes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elfhild",
+		  "plural" : "Elfhilds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elwing",
+		  "plural" : "Elwings",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Emeldir",
+		  "plural" : "Emeldirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Emerwen",
+		  "plural" : "Emerwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eowyn",
+		  "plural" : "Eowyns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN", "FAMOUS"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Erendis",
+		  "plural" : "Erendiss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Esmeralda",
+		  "plural" : "Esmeraldas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Estel",
+		  "plural" : "Estels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Estella",
+		  "plural" : "Estellas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Evenstar",
+		  "plural" : "Evenstars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Faelivrin",
+		  "plural" : "Faelivrins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fimbrethil",
+		  "plural" : "Fimbrethils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Findis",
+		  "plural" : "Findiss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Finduilas",
+		  "plural" : "Finduilass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Firiel",
+		  "plural" : "Firiels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Galadriel",
+		  "plural" : "Galadriels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN", "FAMOUS"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Galadwen",
+		  "plural" : "Galadwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gilly",
+		  "plural" : "Gillys",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gilmith",
+		  "plural" : "Gilmiths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gilraen",
+		  "plural" : "Gilraens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gloredhel",
+		  "plural" : "Gloredhels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Goldberry",
+		  "plural" : "Goldberrys",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Goldilocks",
+		  "plural" : "Goldilockss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Haleth",
+		  "plural" : "Haleths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hanna",
+		  "plural" : "Hannas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hareth",
+		  "plural" : "Hareths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hild",
+		  "plural" : "Hilds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hilda",
+		  "plural" : "Hildas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hildigard",
+		  "plural" : "Hildigards",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Idril",
+		  "plural" : "Idrils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ilmare",
+		  "plural" : "Ilmares",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Iluvatar",
+		  "plural" : "Iluvatars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Indis",
+		  "plural" : "Indiss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Inzilbeth",
+		  "plural" : "Inzilbeths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ioreth",
+		  "plural" : "Ioreths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Irime",
+		  "plural" : "Irimes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Isilme",
+		  "plural" : "Isilmes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ivorwen",
+		  "plural" : "Ivorwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Kementari",
+		  "plural" : "Kementaris",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lalaith",
+		  "plural" : "Lalaiths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lalwen",
+		  "plural" : "Lalwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Laura",
+		  "plural" : "Lauras",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Laurelin",
+		  "plural" : "Laurelins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lily",
+		  "plural" : "Lilys",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Linda",
+		  "plural" : "Lindas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lindorie",
+		  "plural" : "Lindories",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lobelia",
+		  "plural" : "Lobelias",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lorien",
+		  "plural" : "Loriens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lothiriel",
+		  "plural" : "Lothiriels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Luthien",
+		  "plural" : "Luthiens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Malva",
+		  "plural" : "Malvas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Marigold",
+		  "plural" : "Marigolds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "May",
+		  "plural" : "Mays",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Melian",
+		  "plural" : "Melians",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Melilot",
+		  "plural" : "Melilots",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Menegilda",
+		  "plural" : "Menegildas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mentha",
+		  "plural" : "Menthas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mimosa",
+		  "plural" : "Mimosas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mirabella",
+		  "plural" : "Mirabellas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Miriel",
+		  "plural" : "Miriels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mithrellas",
+		  "plural" : "Mithrellass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Morwen",
+		  "plural" : "Morwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Myrtle",
+		  "plural" : "Myrtles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nellas",
+		  "plural" : "Nellass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nerdanel",
+		  "plural" : "Nerdanels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nerwen",
+		  "plural" : "Nerwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nessa",
+		  "plural" : "Nessas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nienna",
+		  "plural" : "Niennas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nienor",
+		  "plural" : "Nienors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nimloth",
+		  "plural" : "Nimloths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nimrodel",
+		  "plural" : "Nimrodels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Niniel",
+		  "plural" : "Niniels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nuneth",
+		  "plural" : "Nuneths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Pansy",
+		  "plural" : "Pansys",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Pearl",
+		  "plural" : "Pearls",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Peony",
+		  "plural" : "Peonys",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Pervinca",
+		  "plural" : "Pervincas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Pimpernel",
+		  "plural" : "Pimpernels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Poppy",
+		  "plural" : "Poppys",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Primrose",
+		  "plural" : "Primroses",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Primula",
+		  "plural" : "Primulas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Prisca",
+		  "plural" : "Priscas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rian",
+		  "plural" : "Rians",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rosamunda",
+		  "plural" : "Rosamundas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rose",
+		  "plural" : "Roses",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rowan",
+		  "plural" : "Rowans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ruby",
+		  "plural" : "Rubys",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Salvia",
+		  "plural" : "Salvias",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Serinde",
+		  "plural" : "Serindes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shelob",
+		  "plural" : "Shelobs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN", "FAMOUS"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Silmarien",
+		  "plural" : "Silmariens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tanta",
+		  "plural" : "Tantas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tarinya",
+		  "plural" : "Tarinyas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Telperion",
+		  "plural" : "Telperions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Theodwyn",
+		  "plural" : "Theodwyns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Thuringweithil",
+		  "plural" : "Thuringweithils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tinuviel",
+		  "plural" : "Tinuviels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Uinen",
+		  "plural" : "Uinens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Uineniel",
+		  "plural" : "Uineniels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ungoliant",
+		  "plural" : "Ungoliants",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Urwen",
+		  "plural" : "Urwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vaire",
+		  "plural" : "Vaires",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Valinor",
+		  "plural" : "Valinors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vana",
+		  "plural" : "Vanas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vanimelde",
+		  "plural" : "Vanimeldes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Varda",
+		  "plural" : "Vardas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vidumavi",
+		  "plural" : "Vidumavis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Yavanna",
+		  "plural" : "Yavannas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zamin",
+		  "plural" : "Zamins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zimraphel",
+		  "plural" : "Zimraphels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "FEMALE", "TOLKIEN"],
+		  "frequency" : "COMMON"
+		},
+	]
+}

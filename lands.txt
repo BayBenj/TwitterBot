@@ -1,0 +1,2594 @@
+Abandoned
+abandon +VPAST
+Outpost
+outpost +NOUN
+Academy
+academy +NOUN
+Ruins
+ruin +NOUN
+Adarkar
+Adarkar +PROP (guessed)
+Wastes
+waste +NOUN
+Adventurers
+adventurer +NOUN
+'
+'s +POSS
+Guildhouse
+Guildhouse +PROP (guessed)
+Akoum
+Akoum +PROP (guessed)
+Refuge
+refuge +NOUN
+Alchemist
+alchemist +NOUN
+'s
+'s +POSS
+Refuge
+refuge +NOUN
+Ally
+Ally +PROP
+Encampment
+Encampment +PROP
+Ancient
+ancient +ADJ
+Amphitheater
+amphitheater +NOUN
+Ancient
+ancient +ADJ
+Den
+den +NOUN
+Ancient
+ancient +ADJ
+Spring
+spring +NOUN
+Ancient
+ancient +ADJ
+Tomb
+tomb +NOUN
+Ancient
+ancient +ADJ
+Ziggurat
+Ziggurat +PROP (guessed)
+An-Havva
+an-Havva +PROP (guessed)
+Township
+township +NOUN
+Arcane
+arcane +ADJ
+Lighthouse
+lighthouse +NOUN
+Arcane
+arcane +ADJ
+Sanctum
+sanctum +NOUN
+Archaeological
+archaeological +ADJ
+Dig
+dig +NOUN
+Arctic
+Arctic +PROP
+Flats
+flat +NOUN
+Arena
+arena +NOUN
+Arid
+arid +ADJ
+Mesa
+mesa +NOUN
+Auntie
+auntie +NOUN
+'s
+'s +POSS
+Hovel
+hovel +NOUN
+Aysen
+Aysen +PROP (guessed)
+Abbey
+Abbey +PROP
+Azorius
+Azorius +PROP (guessed)
+Chancery
+chancery +NOUN
+Azorius
+Azorius +PROP (guessed)
+Guildgate
+Guildgate +PROP (guessed)
+Bad
+bad +ADJ
+River
+river +NOUN
+Badlands
+badlands +NOUN
+Balduvian
+balduvian +ADJ (guessed)
+Trading
+trading +ADJING
+Post
+post +NOUN
+Bant
+Bant +PROP (guessed)
+Panorama
+panorama +NOUN
+Barbarian
+barbarian +ADJ
+Ring
+ring +NOUN
+Barren
+barren +ADJ
+Moor
+moor +NOUN
+Battlefield
+battlefield +NOUN
+Forge
+forge +NOUN
+Bayou
+bayou +NOUN
+Bazaar
+bazaar +NOUN
+of
+of +PREP
+Baghdad
+Baghdad +PROP
+Blackcleave
+Blackcleave +PROP (guessed)
+Cliffs
+Cliff +PROP
+Blasted
+blast +VPAST
+Landscape
+landscape +NOUN
+Blighted
+blight +VPAST
+Cataract
+cataract +NOUN
+Blighted
+blight +VPAST
+Fen
+Fen +PROP (guessed)
+Blighted
+blight +VPAST
+Gorge
+gorge +NOUN
+Blighted
+blight +VPAST
+Steppe
+steppe +NOUN
+Blighted
+blight +VPAST
+Woodland
+woodland +NOUN
+Blinkmoth
+Blinkmoth +PROP (guessed)
+Nexus
+nexus +NOUN
+Blinkmoth
+Blinkmoth +PROP (guessed)
+Well
+well +NOUN
+Blood
+blood +NOUN
+Crypt
+crypt +NOUN
+Bloodfell
+Bloodfell +PROP (guessed)
+Caves
+Caves +PROP
+Bloodstained
+bloodstained +ADJPAP
+Mire
+mire +NOUN
+Blossoming
+blossoming +ADJING
+Sands
+sand +NOUN
+Bog
+bog +NOUN
+Wreckage
+wreckage +NOUN
+Bojuka
+Bojuka +PROP (guessed)
+Bog
+bog +NOUN
+Boreal
+boreal +ADJ
+Shelf
+shelf +NOUN
+Boros
+Boros +PROP (guessed)
+Garrison
+garrison +NOUN
+Boros
+Boros +PROP (guessed)
+Guildgate
+Guildgate +PROP (guessed)
+Boseiju
+Boseiju +PROP (guessed)
+,
+, +CM
+Who
+who +PRONREL
+Shelters
+shelter +VPRES
+All
+all +QUANT
+Bottomless
+bottomless +ADJ
+Vault
+vault +NOUN
+Breeding
+breeding +ADJING
+Pool
+pool +NOUN
+Brushland
+Brushland +PROP (guessed)
+Buried
+bury +VPAST
+Ruin
+ruin +NOUN
+Cabal
+cabal +NOUN
+Coffers
+coffer +NOUN
+Cabal
+cabal +NOUN
+Pit
+pit +NOUN
+Calciform
+Calciform +PROP (guessed)
+Pools
+pool +NOUN
+Caldera
+caldera +NOUN
+Lake
+lake +NOUN
+Canopy
+canopy +NOUN
+Vista
+vista +NOUN
+Cascade
+Cascade +PROP
+Bluffs
+Bluffs +PROP
+Castle
+castle +NOUN
+Sengir
+Sengir +PROP (guessed)
+Cathedral
+cathedral +NOUN
+of
+of +PREP
+Serra
+Serra +PROP (guessed)
+Cathedral
+cathedral +NOUN
+of
+of +PREP
+War
+War +PROP
+Cavern
+cavern +NOUN
+of
+of +PREP
+Souls
+soul +NOUN
+Caves
+cave +NOUN
+of
+of +PREP
+Koilos
+Koilos +PROP (guessed)
+Celestial
+celestial +ADJ
+Colonnade
+colonnade +NOUN
+Centaur
+centaur +NOUN
+Garden
+garden +NOUN
+Cephalid
+Cephalid +PROP (guessed)
+Coliseum
+coliseum +NOUN
+Choked
+choke +VPAST
+Estuary
+estuary +NOUN
+Cinder
+cinder +NOUN
+Barrens
+barren +NOUN
+Cinder
+cinder +NOUN
+Glade
+glade +NOUN
+Cinder
+cinder +NOUN
+Marsh
+Marsh +PROP
+City
+City +PROP
+of
+of +PREP
+Ass
+ass +NOUN
+City
+city +NOUN
+of
+of +PREP
+Brass
+brass +NOUN
+City
+city +NOUN
+of
+of +PREP
+Shadows
+Shadow +PROP
+City
+City +PROP
+of
+of +PREP
+Traitors
+traitor +NOUN
+Clifftop
+Clifftop +PROP (guessed)
+Retreat
+retreat +NOUN
+Cloudcrest
+Cloudcrest +PROP (guessed)
+Lake
+Lake +PROP
+Cloudpost
+Cloudpost +PROP (guessed)
+Coastal
+Coastal +PROP
+Tower
+tower +NOUN
+Command
+command +NOUN
+Beacon
+beacon +NOUN
+Command
+command +NOUN
+Tower
+tower +NOUN
+Contested
+contest +VPAST
+Cliffs
+Cliff +PROP
+Contested
+contest +VPAST
+War
+War +PROP
+Zone
+zone +NOUN
+Copperline
+Copperline +PROP (guessed)
+Gorge
+gorge +NOUN
+Coral
+coral +NOUN
+Atoll
+atoll +NOUN
+Corrupted
+corrupt +VPAST
+Crossroads
+Crossroads +PROP
+Creeping
+creeping +ADJING
+Tar
+tar +NOUN
+Pit
+pit +NOUN
+Crosis
+Crosis +PROP (guessed)
+'s
+'s +POSS
+Catacombs
+catacomb +NOUN
+Crucible
+crucible +NOUN
+of
+of +PREP
+the
+the +DET
+Spirit
+spirit +NOUN
+Dragon
+dragon +NOUN
+Crumbling
+crumbling +ADJING
+Necropolis
+necropolis +NOUN
+Crumbling
+crumbling +ADJING
+Vestige
+vestige +NOUN
+Crypt
+crypt +NOUN
+of
+of +PREP
+Agadeem
+Agadeem +PROP (guessed)
+Crystal
+Crystal +PROP
+Quarry
+quarry +NOUN
+Crystal
+crystal +NOUN
+Vein
+vein +NOUN
+Dakmor
+Dakmor +PROP (guessed)
+Salvage
+salvage +NOUN
+Darigaaz
+Darigaaz +PROP (guessed)
+'s
+'s +POSS
+Caldera
+caldera +NOUN
+Dark
+dark +ADJ
+Depths
+depth +NOUN
+Darkslick
+Darkslick +PROP (guessed)
+Shores
+shore +NOUN
+Darksteel
+Darksteel +PROP (guessed)
+Citadel
+citadel +NOUN
+Darkwater
+Darkwater +PROP (guessed)
+Catacombs
+catacomb +NOUN
+Daru
+Daru +PROP (guessed)
+Encampment
+Encampment +PROP
+Desert
+desert +NOUN
+Deserted
+desert +VPAST
+Temple
+Temple +PROP
+Desolate
+desolate +ADJ
+Lighthouse
+lighthouse +NOUN
+Diamond
+diamond +NOUN
+Valley
+valley +NOUN
+Dimir
+Dimir +PROP (guessed)
+Aqueduct
+aqueduct +NOUN
+Dimir
+Dimir +PROP (guessed)
+Guildgate
+Guildgate +PROP (guessed)
+Dismal
+dismal +ADJ
+Backwater
+backwater +NOUN
+Dormant
+dormant +ADJ
+Volcano
+volcano +NOUN
+Dragonskull
+Dragonskull +PROP (guessed)
+Summit
+Summit +PROP
+Dread
+dread +ADJ
+Statuary
+statuary +NOUN
+Dreadship
+Dreadship +PROP (guessed)
+Reef
+reef +NOUN
+Drifting
+drifting +ADJING
+Meadow
+meadow +NOUN
+Dromar
+Dromar +PROP (guessed)
+'s
+'s +POSS
+Cavern
+cavern +NOUN
+Drowned
+drown +VPAST
+Catacomb
+catacomb +NOUN
+Drownyard
+Drownyard +PROP (guessed)
+Temple
+Temple +PROP
+Dryad
+dryad +NOUN
+Arbor
+Arbor +PROP
+Duskmantle
+Duskmantle +PROP (guessed)
+,
+, +CM
+House
+house +NOUN
+of
+of +PREP
+Shadow
+Shadow +PROP
+Dust
+dust +NOUN
+Bowl
+bowl +NOUN
+Dwarven
+Dwarven +PROP (guessed)
+Hold
+hold +NOUN
+Dwarven
+Dwarven +PROP (guessed)
+Ruins
+ruin +NOUN
+Ebon
+Ebon +PROP (guessed)
+Stronghold
+stronghold +NOUN
+Eiganjo
+Eiganjo +PROP (guessed)
+Castle
+castle +NOUN
+Eldrazi
+Eldrazi +PROP (guessed)
+Temple
+Temple +PROP
+Elephant
+elephant +NOUN
+Graveyard
+graveyard +NOUN
+Elfhame
+Elfhame +PROP (guessed)
+Palace
+palace +NOUN
+Emeria
+Emeria +PROP (guessed)
+,
+, +CM
+the
+the +DET
+Sky
+sky +NOUN
+Ruin
+ruin +NOUN
+Encroaching
+encroaching +ADJING
+Wastes
+waste +NOUN
+Esper
+Esper +PROP (guessed)
+Panorama
+panorama +NOUN
+Everglades
+everglade +NOUN
+Evolving
+evolving +ADJING
+Wilds
+wild +NOUN
+Exotic
+exotic +ADJ
+Orchard
+orchard +NOUN
+Eye
+eye +NOUN
+of
+of +PREP
+Ugin
+Ugin +PROP (guessed)
+Faerie
+faerie +NOUN
+Conclave
+conclave +NOUN
+Fertile
+fertile +ADJ
+Thicket
+thicket +NOUN
+Fetid
+fetid +ADJ
+Heath
+Heath +PROP
+Fire-Lit
+fire-Lit +PROP (guessed)
+Thicket
+thicket +NOUN
+Flagstones
+flagstone +NOUN
+of
+of +PREP
+Trokair
+Trokair +PROP (guessed)
+Flamekin
+Flamekin +PROP (guessed)
+Village
+village +NOUN
+Flood
+flood +NOUN
+Plain
+plain +NOUN
+Flooded
+flood +VPAST
+Grove
+Grove +PROP
+Flooded
+flood +VPAST
+Strand
+strand +NOUN
+Forbidden
+forbid +PARTPAST
+Orchard
+orchard +NOUN
+Forbidding
+forbidding +ADJING
+Watchtower
+watchtower +NOUN
+Foreboding
+foreboding +ADJING
+Ruins
+ruin +NOUN
+Forest
+forest +NOUN
+Forgotten
+forget +PARTPAST
+Cave
+cave +NOUN
+Forsaken
+forsake +PARTPAST
+City
+city +NOUN
+Forsaken
+forsake +PARTPAST
+Sanctuary
+sanctuary +NOUN
+Fortified
+fortify +VPAST
+Village
+village +NOUN
+Foul
+foul +ADJ
+Orchard
+orchard +NOUN
+Foundry
+foundry +NOUN
+of
+of +PREP
+the
+the +DET
+Consuls
+consul +NOUN
+Fountain
+fountain +NOUN
+of
+of +PREP
+Cho
+Cho +PROP
+Frontier
+frontier +NOUN
+Bivouac
+bivouac +NOUN
+Frost
+Frost +PROP
+Marsh
+Marsh +PROP
+Fungal
+fungal +ADJ
+Reaches
+reach +NOUN
+Gaea
+Gaea +PROP (guessed)
+'s
+'s +POSS
+Cradle
+cradle +NOUN
+Game
+game +ADJ
+Trail
+trail +NOUN
+Gargoyle
+gargoyle +NOUN
+Castle
+castle +NOUN
+Gavony
+Gavony +PROP (guessed)
+Township
+township +NOUN
+Gemstone
+gemstone +NOUN
+Caverns
+cavern +NOUN
+Gemstone
+gemstone +NOUN
+Mine
+mine +VPRES
+Geothermal
+geothermal +ADJ
+Crevice
+crevice +NOUN
+Ghitu
+Ghitu +PROP (guessed)
+Encampment
+Encampment +PROP
+Ghost
+ghost +NOUN
+Quarter
+quarter +NOUN
+Ghost
+ghost +NOUN
+Town
+Town +PROP
+Gilt-Leaf
+gilt-Leaf +PROP (guessed)
+Palace
+palace +NOUN
+Glacial
+glacial +ADJ
+Chasm
+chasm +NOUN
+Glacial
+glacial +ADJ
+Fortress
+fortress +NOUN
+Glimmerpost
+Glimmerpost +PROP (guessed)
+Glimmervoid
+Glimmervoid +PROP (guessed)
+Goblin
+goblin +NOUN
+Burrows
+burrow +NOUN
+Godless
+godless +ADJ
+Shrine
+shrine +NOUN
+Gods
+god +NOUN
+'
+'s +POSS
+Eye
+eye +NOUN
+,
+, +CM
+Gate
+gate +NOUN
+to
+to +PREP
+the
+the +DET
+Reikai
+Reikai +PROP (guessed)
+Golgari
+Golgari +PROP (guessed)
+Guildgate
+Guildgate +PROP (guessed)
+Golgari
+Golgari +PROP (guessed)
+Rot
+rot +NOUN
+Farm
+Farm +PROP
+Grand
+Grand +PROP
+Coliseum
+coliseum +NOUN
+Grasslands
+grassland +NOUN
+Graven
+grave +PARTPAST
+Cairns
+cairn +NOUN
+Graypelt
+Graypelt +PROP (guessed)
+Refuge
+refuge +NOUN
+Great
+Great +PROP
+Furnace
+furnace +NOUN
+Griffin
+griffin +NOUN
+Canyon
+canyon +NOUN
+Grim
+grim +ADJ
+Backwoods
+backwoods +NOUN
+Grixis
+Grixis +PROP (guessed)
+Panorama
+panorama +NOUN
+Grove
+grove +NOUN
+of
+of +PREP
+the
+the +DET
+Burnwillows
+Burnwillows +PROP (guessed)
+Grove
+Grove +PROP
+of
+of +PREP
+the
+the +DET
+Guardian
+guardian +NOUN
+Gruul
+Gruul +PROP (guessed)
+Guildgate
+Guildgate +PROP (guessed)
+Gruul
+Gruul +PROP (guessed)
+Turf
+turf +NOUN
+Halimar
+Halimar +PROP (guessed)
+Depths
+depth +NOUN
+Hall
+hall +NOUN
+of
+of +PREP
+the
+the +DET
+Bandit
+bandit +NOUN
+Lord
+lord +NOUN
+Hallowed
+hallow +VPAST
+Fountain
+fountain +NOUN
+Halls
+hall +NOUN
+of
+of +PREP
+Mist
+mist +NOUN
+Hammerheim
+Hammerheim +PROP (guessed)
+Haunted
+haunt +VPAST
+Fengraf
+Fengraf +PROP (guessed)
+Haven
+Haven +PROP
+of
+of +PREP
+the
+the +DET
+Spirit
+spirit +NOUN
+Dragon
+dragon +NOUN
+Havenwood
+Havenwood +PROP (guessed)
+Battleground
+battleground +NOUN
+Heart
+heart +NOUN
+of
+of +PREP
+Yavimaya
+Yavimaya +PROP (guessed)
+Hellion
+hellion +NOUN
+Crucible
+crucible +NOUN
+Henge
+Henge +PROP (guessed)
+of
+of +PREP
+Ramos
+Ramos +PROP
+Hickory
+hickory +NOUN
+Woodlot
+woodlot +NOUN
+High
+high +ADJ
+Market
+market +NOUN
+Highland
+Highland +PROP
+Lake
+Lake +PROP
+Highland
+Highland +PROP
+Weald
+Weald +PROP
+Hinterland
+hinterland +NOUN
+Harbor
+harbor +NOUN
+Hissing
+hissing +ADJING
+Quagmire
+quagmire +NOUN
+Holdout
+holdout +NOUN
+Settlement
+settlement +NOUN
+Hollow
+hollow +ADJ
+Trees
+tree +NOUN
+Homeward
+homeward +ADJ
+Path
+path +NOUN
+Horizon
+horizon +NOUN
+Canopy
+canopy +NOUN
+Howltooth
+Howltooth +PROP (guessed)
+Hollow
+hollow +ADJ
+Icatian
+icatian +ADJ (guessed)
+Store
+store +NOUN
+Ice
+ice +NOUN
+Floe
+floe +NOUN
+Inkmoth
+Inkmoth +PROP (guessed)
+Nexus
+nexus +NOUN
+Irrigation
+irrigation +NOUN
+Ditch
+ditch +NOUN
+Island
+island +NOUN
+Island
+island +NOUN
+of
+of +PREP
+Wak-Wak
+wak-Wak +PROP (guessed)
+Isolated
+isolate +VPAST
+Chapel
+chapel +NOUN
+Izzet
+Izzet +PROP (guessed)
+Boilerworks
+Boilerworks +PROP (guessed)
+Izzet
+Izzet +PROP (guessed)
+Guildgate
+Guildgate +PROP (guessed)
+Jund
+Jund +PROP (guessed)
+Panorama
+panorama +NOUN
+Jungle
+jungle +NOUN
+Basin
+basin +NOUN
+Jungle
+jungle +NOUN
+Hollow
+hollow +ADJ
+Jungle
+jungle +NOUN
+Shrine
+shrine +NOUN
+Jwar
+Jwar +PROP (guessed)
+Isle
+isle +NOUN
+Refuge
+refuge +NOUN
+Kabira
+Kabira +PROP (guessed)
+Crossroads
+Crossroads +PROP
+Karakas
+Karakas +PROP (guessed)
+Karoo
+Karoo +PROP (guessed)
+Karplusan
+Karplusan +PROP (guessed)
+Forest
+forest +NOUN
+Kazandu
+Kazandu +PROP (guessed)
+Refuge
+refuge +NOUN
+Keldon
+Keldon +PROP (guessed)
+Megaliths
+megalith +NOUN
+Keldon
+Keldon +PROP (guessed)
+Necropolis
+necropolis +NOUN
+Kessig
+Kessig +PROP (guessed)
+Wolf
+Wolf +PROP
+Run
+run +VI
+Khalni
+khalni +ADJ (guessed)
+Garden
+garden +NOUN
+Kher
+Kher +PROP (guessed)
+Keep
+keep +NOUN
+Kjeldoran
+Kjeldoran +PROP (guessed)
+Outpost
+outpost +NOUN
+Kor
+Kor +PROP (guessed)
+Haven
+Haven +PROP
+Koskun
+Koskun +PROP (guessed)
+Keep
+keep +NOUN
+Krosan
+Krosan +PROP (guessed)
+Verge
+Verge +PROP
+Lake
+Lake +PROP
+of
+of +PREP
+the
+the +DET
+Dead
+dead +ADJ
+Land
+land +NOUN
+Cap
+cap +NOUN
+Lantern-Lit
+lantern-Lit +PROP (guessed)
+Graveyard
+graveyard +NOUN
+Lava
+lava +NOUN
+Tubes
+tube +NOUN
+Lavaclaw
+Lavaclaw +PROP (guessed)
+Reaches
+reach +NOUN
+Leechridden
+Leechridden +PROP (guessed)
+Swamp
+swamp +NOUN
+Library
+library +NOUN
+of
+of +PREP
+Alexandria
+Alexandria +PROP
+Llanowar
+Llanowar +PROP (guessed)
+Reborn
+reborn +ADJ
+Llanowar
+llanowar +ADJ (guessed)
+Wastes
+waste +NOUN
+Lonely
+lonely +ADJ
+Sandbar
+sandbar +NOUN
+Looming
+looming +ADJING
+Spires
+spire +NOUN
+Lotus
+Lotus +PROP
+Vale
+Vale +PROP
+Lumbering
+lumber +PARTPRES
+Falls
+Falls +PROP
+Madblind
+Madblind +PROP (guessed)
+Mountain
+Mountain +PROP
+Mage-Ring
+mage-Ring +PROP (guessed)
+Network
+network +NOUN
+Magosi
+Magosi +PROP (guessed)
+,
+, +CM
+the
+the +DET
+Waterveil
+Waterveil +PROP (guessed)
+Mana
+Mana +PROP (guessed)
+Confluence
+Confluence +PROP
+Marsh
+Marsh +PROP
+Flats
+flat +NOUN
+Maze
+maze +NOUN
+of
+of +PREP
+Ith
+Ith +PROP (guessed)
+Maze
+maze +NOUN
+of
+of +PREP
+Shadows
+Shadow +PROP
+Maze
+maze +NOUN
+'s
+'s +POSS
+End
+end +NOUN
+Meandering
+meander +PARTPRES
+River
+River +PROP
+Mercadian
+Mercadian +PROP (guessed)
+Bazaar
+bazaar +NOUN
+Meteor
+meteor +NOUN
+Crater
+crater +NOUN
+Mikokoro
+Mikokoro +PROP (guessed)
+,
+, +CM
+Center
+center +NOUN
+of
+of +PREP
+the
+the +DET
+Sea
+Sea +PROP
+Minamo
+Minamo +PROP (guessed)
+,
+, +CM
+School
+school +NOUN
+at
+at +PREP
+Water
+water +NOUN
+'s
+'s +POSS
+Edge
+edge +NOUN
+Miren
+Miren +PROP (guessed)
+,
+, +CM
+the
+the +DET
+Moaning
+moaning +ADJING
+Well
+well +NOUN
+Mirrodin
+Mirrodin +PROP (guessed)
+'s
+'s +POSS
+Core
+core +NOUN
+Mirrorpool
+Mirrorpool +PROP (guessed)
+Mishra
+Mishra +PROP (guessed)
+'s
+'s +POSS
+Factory
+factory +NOUN
+Mishra
+Mishra +PROP (guessed)
+'s
+'s +POSS
+Workshop
+workshop +NOUN
+Mistveil
+Mistveil +PROP (guessed)
+Plains
+Plains +PROP
+Misty
+Misty +PROP
+Rainforest
+rainforest +NOUN
+Mogg
+Mogg +PROP (guessed)
+Hollows
+hollow +NOUN
+Molten
+molten +ADJ
+Slagheap
+Slagheap +PROP (guessed)
+Moonring
+Moonring +PROP (guessed)
+Island
+Island +PROP
+Moorland
+Moorland +PROP
+Haunt
+haunt +NOUN
+Mortuary
+mortuary +NOUN
+Mire
+mire +NOUN
+Mossfire
+Mossfire +PROP (guessed)
+Valley
+valley +NOUN
+Mosswort
+Mosswort +PROP (guessed)
+Bridge
+bridge +NOUN
+Mountain
+Mountain +PROP
+Mountain
+Mountain +PROP
+Stronghold
+stronghold +NOUN
+Mountain
+mountain +NOUN
+Valley
+valley +NOUN
+Mouth
+mouth +NOUN
+of
+of +PREP
+Ronom
+Ronom +PROP (guessed)
+Murmuring
+murmur +PARTPRES
+Bosk
+Bosk +PROP (guessed)
+Mutavault
+Mutavault +PROP (guessed)
+Myriad
+myriad +ADJ
+Landscape
+landscape +NOUN
+Mystic
+mystic +ADJ
+Gate
+gate +NOUN
+Mystic
+mystic +ADJ
+Monastery
+monastery +NOUN
+Mystifying
+mystifying +ADJING
+Maze
+maze +NOUN
+Nantuko
+Nantuko +PROP (guessed)
+Monastery
+monastery +NOUN
+Naya
+Naya +PROP (guessed)
+Panorama
+panorama +NOUN
+Needle
+needle +NOUN
+Spires
+spire +NOUN
+Nephalia
+Nephalia +PROP (guessed)
+Drownyard
+Drownyard +PROP (guessed)
+New
+New +PROP
+Benalia
+Benalia +PROP (guessed)
+Nimbus
+nimbus +NOUN
+Maze
+maze +NOUN
+Nivix
+Nivix +PROP (guessed)
+,
+, +CM
+Aerie
+aerie +NOUN
+of
+of +PREP
+the
+the +DET
+Firemind
+firemind +ADJ (guessed)
+Nomad
+nomad +ADJ
+Outpost
+outpost +NOUN
+Nomad
+nomad +ADJ
+Stadium
+stadium +NOUN
+Novijen
+Novijen +PROP (guessed)
+,
+, +CM
+Heart
+heart +NOUN
+of
+of +PREP
+Progress
+progress +NOUN
+Nykthos
+Nykthos +PROP (guessed)
+,
+, +CM
+Shrine
+shrine +NOUN
+to
+to +PREP
+Nyx
+Nyx +PROP (guessed)
+Oasis
+oasis +NOUN
+Oboro
+Oboro +PROP (guessed)
+,
+, +CM
+Palace
+palace +NOUN
+in
+in +PREP
+the
+the +DET
+Clouds
+cloud +NOUN
+Okina
+Okina +PROP (guessed)
+,
+, +CM
+Temple
+Temple +PROP
+to
+to +PREP
+the
+the +DET
+Grandfathers
+Grandfather +PROP
+Opal
+Opal +PROP
+Palace
+palace +NOUN
+Opulent
+opulent +ADJ
+Palace
+palace +NOUN
+Oran-Rief
+oran-Rief +PROP (guessed)
+,
+, +CM
+the
+the +DET
+Vastwood
+Vastwood +PROP (guessed)
+Orzhov
+Orzhov +PROP (guessed)
+Basilica
+basilica +NOUN
+Orzhov
+Orzhov +PROP (guessed)
+Guildgate
+Guildgate +PROP (guessed)
+Orzhova
+Orzhova +PROP (guessed)
+,
+, +CM
+the
+the +DET
+Church
+church +NOUN
+of
+of +PREP
+Deals
+deal +NOUN
+Overgrown
+overgrow +PARTPAST
+Tomb
+tomb +NOUN
+Paliano
+Paliano +PROP (guessed)
+,
+, +CM
+the
+the +DET
+High
+high +ADJ
+City
+city +NOUN
+Peat
+peat +NOUN
+Bog
+bog +NOUN
+Pendelhaven
+Pendelhaven +PROP (guessed)
+Petrified
+petrify +VPAST
+Field
+Field +PROP
+Phyrexian
+Phyrexian +PROP (guessed)
+Tower
+tower +NOUN
+Phyrexia
+Phyrexia +PROP (guessed)
+'s
+'s +POSS
+Core
+core +NOUN
+Pillar
+pillar +NOUN
+of
+of +PREP
+the
+the +DET
+Paruns
+paruns +ADJ (guessed)
+Pine
+pine +NOUN
+Barrens
+barren +NOUN
+Pinecrest
+Pinecrest +PROP
+Ridge
+ridge +NOUN
+Piranha
+piranha +NOUN
+Marsh
+Marsh +PROP
+Plains
+Plains +PROP
+Plateau
+plateau +NOUN
+Polluted
+pollute +VPAST
+Delta
+Delta +PROP
+Polluted
+pollute +VPAST
+Mire
+mire +NOUN
+Port
+Port +PROP
+Town
+Town +PROP
+Prahv
+Prahv +PROP (guessed)
+,
+, +CM
+Spires
+spire +NOUN
+of
+of +PREP
+Order
+order +NOUN
+Prairie
+prairie +NOUN
+Stream
+stream +NOUN
+Primal
+primal +ADJ
+Beyond
+beyond +PREP
+Quicksand
+quicksand +NOUN
+R&amp;D
+R&amp;D +PROP
+'s
+'s +POSS
+Secret
+secret +ADJ
+Lair
+lair +NOUN
+Radiant
+radiant +ADJ
+Fountain
+fountain +NOUN
+Raging
+raging +ADJING
+Ravine
+ravine +NOUN
+Rainbow
+rainbow +NOUN
+Vale
+Vale +PROP
+Rakdos
+Rakdos +PROP (guessed)
+Carnarium
+Carnarium +PROP (guessed)
+Rakdos
+Rakdos +PROP (guessed)
+Guildgate
+Guildgate +PROP (guessed)
+Rath
+Rath +PROP (guessed)
+'s
+'s +POSS
+Edge
+edge +NOUN
+Ravaged
+ravage +VPAST
+Highlands
+Highlands +PROP
+Razorverge
+Razorverge +PROP (guessed)
+Thicket
+thicket +NOUN
+Reflecting
+reflecting +ADJING
+Pool
+pool +NOUN
+Reliquary
+reliquary +NOUN
+Tower
+tower +NOUN
+Remote
+remote +ADJ
+Farm
+farm +NOUN
+Remote
+remote +ADJ
+Isle
+isle +NOUN
+Rhystic
+Rhystic +PROP (guessed)
+Cave
+cave +NOUN
+Riftstone
+Riftstone +PROP (guessed)
+Portal
+portal +NOUN
+Riptide
+riptide +NOUN
+Laboratory
+Laboratory +PROP
+Rishadan
+Rishadan +PROP (guessed)
+Port
+Port +PROP
+Rith
+Rith +PROP (guessed)
+'s
+'s +POSS
+Grove
+Grove +PROP
+River
+River +PROP
+Delta
+Delta +PROP
+River
+River +PROP
+of
+of +PREP
+Tears
+tear +NOUN
+Rix
+Rix +PROP
+Maadi
+Maadi +PROP (guessed)
+,
+, +CM
+Dungeon
+dungeon +NOUN
+Palace
+palace +NOUN
+Rocky
+rocky +ADJ
+Tar
+tar +NOUN
+Pit
+pit +NOUN
+Rogue
+rogue +NOUN
+'s
+'s +POSS
+Passage
+passage +NOUN
+Rootbound
+Rootbound +PROP (guessed)
+Crag
+crag +NOUN
+Rootwater
+Rootwater +PROP (guessed)
+Depths
+depth +NOUN
+Rugged
+rugged +ADJPAP
+Highlands
+highland +NOUN
+Rugged
+rugged +ADJPAP
+Prairie
+prairie +NOUN
+Ruins
+ruin +NOUN
+of
+of +PREP
+Oran-Rief
+oran-Rief +PROP (guessed)
+Ruins
+ruin +NOUN
+of
+of +PREP
+Trokair
+Trokair +PROP (guessed)
+Rupture
+rupture +NOUN
+Spire
+spire +NOUN
+Rushwood
+Rushwood +PROP (guessed)
+Grove
+Grove +PROP
+Rustic
+rustic +ADJ
+Clachan
+clachan +ADJ (guessed)
+Sacred
+sacred +ADJ
+Foundry
+foundry +NOUN
+Safe
+safe +ADJ
+Haven
+haven +NOUN
+Salt
+salt +NOUN
+Flats
+flat +NOUN
+Salt
+Salt +PROP
+Marsh
+Marsh +PROP
+Saltcrusted
+Saltcrusted +PROP (guessed)
+Steppe
+steppe +NOUN
+Sanctum
+sanctum +NOUN
+of
+of +PREP
+Ugin
+Ugin +PROP (guessed)
+Sand
+sand +NOUN
+Silos
+silo +NOUN
+Sandsteppe
+Sandsteppe +PROP (guessed)
+Citadel
+citadel +NOUN
+Sandstone
+sandstone +NOUN
+Bridge
+bridge +NOUN
+Sandstone
+sandstone +NOUN
+Needle
+needle +NOUN
+Saprazzan
+Saprazzan +PROP (guessed)
+Cove
+cove +NOUN
+Saprazzan
+Saprazzan +PROP (guessed)
+Skerry
+Skerry +PROP
+Sapseep
+Sapseep +PROP (guessed)
+Forest
+forest +NOUN
+Savage
+savage +NOUN
+Lands
+Land +PROP
+Savannah
+Savannah +PROP
+Scabland
+Scabland +PROP (guessed)
+Scalding
+scalding +ADJING
+Tarn
+tarn +NOUN
+School
+school +NOUN
+of
+of +PREP
+the
+the +DET
+Unseen
+unseen +ADJ
+Scorched
+scorched +ADJPAP
+Ruins
+ruin +NOUN
+Scoured
+scour +VPAST
+Barrens
+barren +NOUN
+Scrubland
+Scrubland +PROP (guessed)
+Scrying
+Scrying +PROP (guessed)
+Sheets
+Sheets +PROP
+Sea
+Sea +PROP
+Gate
+gate +NOUN
+Wreckage
+wreckage +NOUN
+Seachrome
+Seachrome +PROP (guessed)
+Coast
+Coast +PROP
+Seafarer
+seafarer +NOUN
+'s
+'s +POSS
+Quay
+quay +NOUN
+Seafloor
+seafloor +NOUN
+Debris
+debris +NOUN
+Seaside
+seaside +NOUN
+Citadel
+citadel +NOUN
+Seaside
+seaside +NOUN
+Haven
+haven +NOUN
+Seat
+seat +NOUN
+of
+of +PREP
+the
+the +DET
+Synod
+synod +NOUN
+Secluded
+seclude +VPAST
+Glen
+Glen +PROP
+Secluded
+seclude +VPAST
+Steppe
+steppe +NOUN
+Sejiri
+Sejiri +PROP (guessed)
+Refuge
+refuge +NOUN
+Sejiri
+Sejiri +PROP (guessed)
+Steppe
+steppe +NOUN
+Selesnya
+Selesnya +PROP (guessed)
+Guildgate
+Guildgate +PROP (guessed)
+Selesnya
+Selesnya +PROP (guessed)
+Sanctuary
+sanctuary +NOUN
+Seraph
+seraph +NOUN
+Sanctuary
+sanctuary +NOUN
+Serra
+Serra +PROP (guessed)
+'s
+'s +POSS
+Sanctum
+sanctum +NOUN
+Shadowblood
+Shadowblood +PROP (guessed)
+Ridge
+ridge +NOUN
+Shambling
+shambling +ADJING
+Vent
+vent +NOUN
+Shelldock
+Shelldock +PROP (guessed)
+Isle
+isle +NOUN
+Sheltered
+shelter +VPAST
+Valley
+valley +NOUN
+Shimmering
+shimmering +ADJING
+Grotto
+grotto +NOUN
+Shinka
+Shinka +PROP (guessed)
+,
+, +CM
+the
+the +DET
+Bloodsoaked
+bloodsoaked +ADJPAP (guessed)
+Keep
+keep +NOUN
+Shivan
+Shivan +PROP (guessed)
+Gorge
+gorge +NOUN
+Shivan
+Shivan +PROP (guessed)
+Oasis
+oasis +NOUN
+Shivan
+Shivan +PROP (guessed)
+Reef
+reef +NOUN
+Shizo
+Shizo +PROP (guessed)
+,
+, +CM
+Death
+death +NOUN
+'s
+'s +POSS
+Storehouse
+storehouse +NOUN
+Shrine
+shrine +NOUN
+of
+of +PREP
+the
+the +DET
+Forsaken
+forsaken +ADJPAP
+Gods
+god +NOUN
+Simic
+Simic +PROP (guessed)
+Growth
+growth +NOUN
+Chamber
+chamber +NOUN
+Simic
+Simic +PROP (guessed)
+Guildgate
+Guildgate +PROP (guessed)
+Skarrg
+Skarrg +PROP (guessed)
+,
+, +CM
+the
+the +DET
+Rage
+rage +NOUN
+Pits
+pit +NOUN
+Skycloud
+Skycloud +PROP (guessed)
+Expanse
+expanse +NOUN
+Skyline
+skyline +NOUN
+Cascade
+Cascade +PROP
+Skyshroud
+Skyshroud +PROP (guessed)
+Forest
+forest +NOUN
+Slayers
+slayer +NOUN
+'
+'s +POSS
+Stronghold
+stronghold +NOUN
+Slippery
+slippery +ADJ
+Karst
+karst +ADJ (guessed)
+Sliver
+sliver +NOUN
+Hive
+hive +NOUN
+Smoldering
+smoldering +ADJING
+Crater
+crater +NOUN
+Smoldering
+smoldering +ADJING
+Marsh
+marsh +NOUN
+Smoldering
+smoldering +ADJING
+Spires
+spire +NOUN
+Snow-Covered
+snow-Covered +PROP (guessed)
+Forest
+forest +NOUN
+Snow-Covered
+snow-Covered +PROP (guessed)
+Island
+Island +PROP
+Snow-Covered
+snow-Covered +PROP (guessed)
+Mountain
+Mountain +PROP
+Snow-Covered
+snow-Covered +PROP (guessed)
+Plains
+Plains +PROP
+Snow-Covered
+snow-Covered +PROP (guessed)
+Swamp
+swamp +NOUN
+Soaring
+soar +PARTPRES
+Seacliff
+Seacliff +PROP
+Soldevi
+Soldevi +PROP (guessed)
+Excavations
+excavation +NOUN
+Sorrow
+sorrow +NOUN
+'s
+'s +POSS
+Path
+path +NOUN
+Spawning
+spawning +ADJING
+Bed
+bed +NOUN
+Spawning
+spawning +ADJING
+Pool
+pool +NOUN
+Spinerock
+Spinerock +PROP (guessed)
+Knoll
+knoll +NOUN
+Springjack
+Springjack +PROP (guessed)
+Pasture
+pasture +NOUN
+Stalking
+stalk +PARTPRES
+Stones
+Stone +PROP
+Starlit
+starlit +ADJPAP
+Sanctum
+sanctum +NOUN
+Steam
+steam +NOUN
+Vents
+vent +NOUN
+Stensia
+Stensia +PROP (guessed)
+Bloodhall
+Bloodhall +PROP (guessed)
+Stirring
+stirring +ADJING
+Wildwood
+wildwood +NOUN
+Stomping
+stomping +ADJING
+Ground
+ground +NOUN
+Stone
+stone +NOUN
+Quarry
+quarry +NOUN
+Strip
+strip +NOUN
+Mine
+mine +VPRES
+Submerged
+submerged +ADJPAP
+Boneyard
+boneyard +NOUN
+Subterranean
+subterranean +ADJ
+Hangar
+hangar +NOUN
+Sulfur
+sulfur +NOUN
+Falls
+fall +NOUN
+Sulfur
+sulfur +NOUN
+Vent
+vent +NOUN
+Sulfurous
+sulfurous +ADJ
+Springs
+Springs +PROP
+Sungrass
+Sungrass +PROP (guessed)
+Prairie
+prairie +NOUN
+Sunhome
+Sunhome +PROP (guessed)
+,
+, +CM
+Fortress
+fortress +NOUN
+of
+of +PREP
+the
+the +DET
+Legion
+legion +NOUN
+Sunken
+sunken +ADJ
+Hollow
+hollow +ADJ
+Sunken
+sunken +ADJ
+Ruins
+ruin +NOUN
+Sunpetal
+Sunpetal +PROP (guessed)
+Grove
+Grove +PROP
+Svogthos
+Svogthos +PROP (guessed)
+,
+, +CM
+the
+the +DET
+Restless
+restless +ADJ
+Tomb
+tomb +NOUN
+Svyelunite
+Svyelunite +PROP (guessed)
+Temple
+Temple +PROP
+Swamp
+swamp +NOUN
+Swarmyard
+Swarmyard +PROP (guessed)
+Swiftwater
+Swiftwater +PROP
+Cliffs
+Cliff +PROP
+Taiga
+Taiga +PROP (guessed)
+Tainted
+taint +VPAST
+Field
+Field +PROP
+Tainted
+taint +VPAST
+Isle
+isle +NOUN
+Tainted
+taint +VPAST
+Peak
+peak +NOUN
+Tainted
+taint +VPAST
+Wood
+Wood +PROP
+Tarnished
+tarnish +VPAST
+Citadel
+citadel +NOUN
+Tectonic
+tectonic +ADJ
+Edge
+edge +NOUN
+Teetering
+teetering +ADJING
+Peaks
+peak +NOUN
+Teferi
+Teferi +PROP (guessed)
+'s
+'s +POSS
+Isle
+isle +NOUN
+Temple
+temple +NOUN
+Garden
+garden +NOUN
+Temple
+temple +NOUN
+of
+of +PREP
+Abandon
+abandon +NOUN
+Temple
+temple +NOUN
+of
+of +PREP
+Deceit
+deceit +NOUN
+Temple
+temple +NOUN
+of
+of +PREP
+Enlightenment
+enlightenment +NOUN
+Temple
+temple +NOUN
+of
+of +PREP
+Epiphany
+epiphany +NOUN
+Temple
+temple +NOUN
+of
+of +PREP
+Malady
+malady +NOUN
+Temple
+temple +NOUN
+of
+of +PREP
+Malice
+malice +NOUN
+Temple
+temple +NOUN
+of
+of +PREP
+Mystery
+mystery +NOUN
+Temple
+temple +NOUN
+of
+of +PREP
+Plenty
+plenty +NOUN
+Temple
+temple +NOUN
+of
+of +PREP
+Silence
+silence +NOUN
+Temple
+temple +NOUN
+of
+of +PREP
+the
+the +DET
+False
+false +ADJ
+God
+God +PROP
+Temple
+Temple +PROP
+of
+of +PREP
+Triumph
+triumph +NOUN
+Tendo
+Tendo +PROP (guessed)
+Ice
+ice +NOUN
+Bridge
+bridge +NOUN
+Terminal
+terminal +ADJ
+Moraine
+moraine +NOUN
+Terrain
+terrain +NOUN
+Generator
+generator +NOUN
+Terramorphic
+Terramorphic +PROP (guessed)
+Expanse
+expanse +NOUN
+Thalakos
+Thalakos +PROP (guessed)
+Lowlands
+lowland +NOUN
+Thawing
+thawing +ADJING
+Glaciers
+glacier +NOUN
+The
+the +DET
+Tabernacle
+tabernacle +NOUN
+at
+at +PREP
+Pendrell
+Pendrell +PROP (guessed)
+Vale
+Vale +PROP
+Thespian
+thespian +NOUN
+'s
+'s +POSS
+Stage
+stage +NOUN
+Thornwood
+Thornwood +PROP
+Falls
+Falls +PROP
+Thran
+Thran +PROP (guessed)
+Quarry
+quarry +NOUN
+Timber
+timber +NOUN
+Gorge
+gorge +NOUN
+Timberland
+timberland +NOUN
+Ruins
+ruin +NOUN
+Timberline
+timberline +NOUN
+Ridge
+ridge +NOUN
+Tinder
+tinder +NOUN
+Farm
+Farm +PROP
+Tolaria
+Tolaria +PROP (guessed)
+Tolaria
+Tolaria +PROP (guessed)
+West
+West +PROP
+Tolarian
+Tolarian +PROP (guessed)
+Academy
+academy +NOUN
+Tomb
+tomb +NOUN
+of
+of +PREP
+the
+the +DET
+Spirit
+spirit +NOUN
+Dragon
+dragon +NOUN
+Tomb
+tomb +NOUN
+of
+of +PREP
+Urami
+Urami +PROP (guessed)
+Tower
+tower +NOUN
+of
+of +PREP
+the
+the +DET
+Magistrate
+magistrate +NOUN
+Tranquil
+tranquil +ADJ
+Cove
+cove +NOUN
+Tranquil
+tranquil +ADJ
+Expanse
+expanse +NOUN
+Tranquil
+tranquil +ADJ
+Garden
+garden +NOUN
+Tranquil
+tranquil +ADJ
+Thicket
+thicket +NOUN
+Transguild
+Transguild +PROP (guessed)
+Promenade
+promenade +NOUN
+Tree
+tree +NOUN
+of
+of +PREP
+Tales
+tale +NOUN
+Treetop
+treetop +NOUN
+Village
+village +NOUN
+Tresserhorn
+Tresserhorn +PROP (guessed)
+Sinks
+sink +NOUN
+Treva
+Treva +PROP (guessed)
+'s
+'s +POSS
+Ruins
+ruin +NOUN
+Tropical
+tropical +ADJ
+Island
+island +NOUN
+Tundra
+tundra +NOUN
+Turntimber
+Turntimber +PROP (guessed)
+Grove
+Grove +PROP
+Twilight
+twilight +ADJ
+Mire
+mire +NOUN
+Underground
+underground +ADJ
+River
+river +NOUN
+Underground
+underground +ADJ
+Sea
+sea +NOUN
+Undiscovered
+undiscovered +ADJ
+Paradise
+paradise +NOUN
+Unholy
+unholy +ADJ
+Citadel
+citadel +NOUN
+Unholy
+unholy +ADJ
+Grotto
+grotto +NOUN
+Unknown
+unknown +ADJ
+Shores
+shore +NOUN
+Unstable
+unstable +ADJ
+Frontier
+frontier +NOUN
+Untaidake
+Untaidake +PROP (guessed)
+,
+, +CM
+the
+the +DET
+Cloud
+cloud +NOUN
+Keeper
+keeper +NOUN
+Urborg
+Urborg +PROP (guessed)
+Urborg
+Urborg +PROP (guessed)
+Volcano
+volcano +NOUN
+Urborg
+Urborg +PROP (guessed)
+,
+, +CM
+Tomb
+tomb +NOUN
+of
+of +PREP
+Yawgmoth
+Yawgmoth +PROP (guessed)
+Urza
+Urza +PROP (guessed)
+'s
+'s +POSS
+Factory
+factory +NOUN
+Urza
+Urza +PROP (guessed)
+'s
+'s +POSS
+Mine
+mine +NOUN
+Urza
+Urza +PROP (guessed)
+'s
+'s +POSS
+Power
+power +NOUN
+Plant
+plant +NOUN
+Urza
+Urza +PROP (guessed)
+'s
+'s +POSS
+Tower
+tower +NOUN
+Valakut
+Valakut +PROP (guessed)
+,
+, +CM
+the
+the +DET
+Molten
+molten +ADJ
+Pinnacle
+pinnacle +NOUN
+Vault
+vault +NOUN
+of
+of +PREP
+the
+the +DET
+Archangel
+archangel +NOUN
+Vault
+vault +NOUN
+of
+of +PREP
+Whispers
+whisper +NOUN
+Vec
+Vec +PROP (guessed)
+Townships
+township +NOUN
+Veldt
+veldt +NOUN
+Verdant
+verdant +ADJ
+Catacombs
+catacomb +NOUN
+Vesuva
+Vesuva +PROP (guessed)
+Vitu-Ghazi
+vitu-Ghazi +PROP (guessed)
+,
+, +CM
+the
+the +DET
+City-Tree
+city-Tree +PROP (guessed)
+Vivid
+vivid +ADJ
+Crag
+crag +NOUN
+Vivid
+vivid +ADJ
+Creek
+creek +NOUN
+Vivid
+vivid +ADJ
+Grove
+grove +NOUN
+Vivid
+vivid +ADJ
+Marsh
+marsh +NOUN
+Vivid
+vivid +ADJ
+Meadow
+meadow +NOUN
+Volcanic
+volcanic +ADJ
+Island
+Island +PROP
+Volrath
+Volrath +PROP (guessed)
+'s
+'s +POSS
+Stronghold
+stronghold +NOUN
+Wandering
+wander +PARTPRES
+Fumarole
+Fumarole +PROP (guessed)
+Wanderwine
+Wanderwine +PROP (guessed)
+Hub
+hub +NOUN
+Warped
+warp +VPAST
+Landscape
+landscape +NOUN
+Wasteland
+wasteland +NOUN
+Wastes
+waste +NOUN
+Waterveil
+Waterveil +PROP (guessed)
+Cavern
+cavern +NOUN
+Watery
+watery +ADJ
+Grave
+grave +NOUN
+Westvale
+Westvale +PROP (guessed)
+Abbey
+Abbey +PROP
+Windbrisk
+Windbrisk +PROP (guessed)
+Heights
+height +NOUN
+Winding
+winding +ADJING
+Canyons
+canyon +NOUN
+Wind-Scarred
+wind-Scarred +PROP (guessed)
+Crag
+crag +NOUN
+Windswept
+windswept +ADJ
+Heath
+Heath +PROP
+Wintermoon
+Wintermoon +PROP (guessed)
+Mesa
+mesa +NOUN
+Wirewood
+Wirewood +PROP (guessed)
+Lodge
+lodge +NOUN
+Wizards
+wizard +NOUN
+'
+'s +POSS
+School
+school +NOUN
+Wooded
+wood +VPAST
+Bastion
+bastion +NOUN
+Wooded
+wood +VPAST
+Foothills
+foothill +NOUN
+Woodland
+woodland +NOUN
+Cemetery
+cemetery +NOUN
+Woodland
+woodland +NOUN
+Stream
+stream +NOUN
+Yavimaya
+Yavimaya +PROP (guessed)
+Coast
+Coast +PROP
+Yavimaya
+Yavimaya +PROP (guessed)
+Hollow
+hollow +ADJ
+Zoetic
+zoetic +ADJ (guessed)
+Cavern
+cavern +NOUN

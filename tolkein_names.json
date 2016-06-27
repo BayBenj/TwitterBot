@@ -1,0 +1,4062 @@
+{ "words" : [
+		{
+		  "singular" : "Abattarik",
+		  "plural" : "Abattariks",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Adalgrim",
+		  "plural" : "Adalgrims",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Adanedhel",
+		  "plural" : "Adanedhels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Adanel",
+		  "plural" : "Adanels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Adrahil",
+		  "plural" : "Adrahils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Adunakhor",
+		  "plural" : "Adunakhors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aegnor",
+		  "plural" : "Aegnors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aerin",
+		  "plural" : "Aerins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Agarwaen",
+		  "plural" : "Agarwaens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aikanaro",
+		  "plural" : "Aikanaros",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aiwendil",
+		  "plural" : "Aiwendils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Alatar",
+		  "plural" : "Alatars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Alatariel",
+		  "plural" : "Alatariels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Alcarin",
+		  "plural" : "Alcarins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aldamir",
+		  "plural" : "Aldamirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aldarion",
+		  "plural" : "Aldarions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aldaron",
+		  "plural" : "Aldarons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aldor",
+		  "plural" : "Aldors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Amandil",
+		  "plural" : "Amandils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Amdir",
+		  "plural" : "Amdirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Amlaith",
+		  "plural" : "Amlaiths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Amras",
+		  "plural" : "Amrass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Amrod",
+		  "plural" : "Amrods",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Amroth",
+		  "plural" : "Amroths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Amrothos",
+		  "plural" : "Amrothoss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Anaire",
+		  "plural" : "Anaires",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Anardil",
+		  "plural" : "Anardils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Anarion",
+		  "plural" : "Anarions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Anborn",
+		  "plural" : "Anborns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ancalagon",
+		  "plural" : "Ancalagons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ancalime",
+		  "plural" : "Ancalimes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ancalimon",
+		  "plural" : "Ancalimons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Andrast",
+		  "plural" : "Andrasts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Andreth",
+		  "plural" : "Andreths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Androg",
+		  "plural" : "Androgs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Anducal",
+		  "plural" : "Anducals",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Andunie",
+		  "plural" : "Andunies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Anfauglir",
+		  "plural" : "Anfauglirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Angbor",
+		  "plural" : "Angbors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Angmar",
+		  "plural" : "Angmars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Angrod",
+		  "plural" : "Angrods",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Annatar",
+		  "plural" : "Annatars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arador",
+		  "plural" : "Aradors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Araglas",
+		  "plural" : "Araglass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aragorn",
+		  "plural" : "Aragorns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aragost",
+		  "plural" : "Aragosts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arahad",
+		  "plural" : "Arahads",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arahael",
+		  "plural" : "Arahaels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aranarth",
+		  "plural" : "Aranarths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arantar",
+		  "plural" : "Arantars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aranuir",
+		  "plural" : "Aranuirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Araphant",
+		  "plural" : "Araphants",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Araphor",
+		  "plural" : "Araphors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arassuil",
+		  "plural" : "Arassuils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aratan",
+		  "plural" : "Aratans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aratar",
+		  "plural" : "Aratars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arathorn",
+		  "plural" : "Arathorns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Araval",
+		  "plural" : "Aravals",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aravir",
+		  "plural" : "Aravirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aravorn",
+		  "plural" : "Aravorns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ardamin",
+		  "plural" : "Ardamins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aredhel",
+		  "plural" : "Aredhels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Argeleb",
+		  "plural" : "Argelebs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Argon",
+		  "plural" : "Argons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Argonui",
+		  "plural" : "Argonuis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arien",
+		  "plural" : "Ariens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arnor",
+		  "plural" : "Arnors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aros",
+		  "plural" : "Aross",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arthedain",
+		  "plural" : "Arthedains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arvedui",
+		  "plural" : "Arveduis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arvegil",
+		  "plural" : "Arvegils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arveleg",
+		  "plural" : "Arvelegs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arwen",
+		  "plural" : "Arwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ArZimraphel",
+		  "plural" : "ArZimraphels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Asfaloth",
+		  "plural" : "Asfaloths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Atanamir",
+		  "plural" : "Atanamirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Atanatar",
+		  "plural" : "Atanatars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aule",
+		  "plural" : "Aules",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ausir",
+		  "plural" : "Ausirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Avranc",
+		  "plural" : "Avrancs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Azaghal",
+		  "plural" : "Azaghals",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Azog",
+		  "plural" : "Azogs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Baggins",
+		  "plural" : "Bagginss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Balbo",
+		  "plural" : "Balbos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Baldor",
+		  "plural" : "Baldors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Balin",
+		  "plural" : "Balins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bane",
+		  "plural" : "Banes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Baragund",
+		  "plural" : "Baragunds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Barahir",
+		  "plural" : "Barahirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Baran",
+		  "plural" : "Barans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bard",
+		  "plural" : "Bards",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Barliman",
+		  "plural" : "Barlimans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bauglir",
+		  "plural" : "Bauglirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Belecthor",
+		  "plural" : "Belecthors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Beleg",
+		  "plural" : "Belegs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Belegorn",
+		  "plural" : "Belegorns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Belegund",
+		  "plural" : "Belegunds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Belemir",
+		  "plural" : "Belemirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Belladonna",
+		  "plural" : "Belladonnas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Beor",
+		  "plural" : "Beors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Beorn",
+		  "plural" : "Beorns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bereg",
+		  "plural" : "Beregs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Beregond",
+		  "plural" : "Beregonds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Beren",
+		  "plural" : "Berens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bergil",
+		  "plural" : "Bergils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bert",
+		  "plural" : "Berts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Beruthiel",
+		  "plural" : "Beruthiels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Berylla",
+		  "plural" : "Beryllas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bifur",
+		  "plural" : "Bifurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bilbo",
+		  "plural" : "Bilbos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bill",
+		  "plural" : "Bills",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Boffin",
+		  "plural" : "Boffins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bofur",
+		  "plural" : "Bofurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Boldog",
+		  "plural" : "Boldogs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bolg",
+		  "plural" : "Bolgs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bolger",
+		  "plural" : "Bolgers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bombadil",
+		  "plural" : "Bombadils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bombur",
+		  "plural" : "Bomburs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bor",
+		  "plural" : "Bors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Borin",
+		  "plural" : "Borins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Boromir",
+		  "plural" : "Boromirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Boron",
+		  "plural" : "Borons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Borondir",
+		  "plural" : "Borondirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bowman",
+		  "plural" : "Bowmans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Brand",
+		  "plural" : "Brands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Brandir",
+		  "plural" : "Brandirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Brandybuck",
+		  "plural" : "Brandybucks",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Brego",
+		  "plural" : "Bregos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bregolas",
+		  "plural" : "Bregolass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bregor",
+		  "plural" : "Bregors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Brodda",
+		  "plural" : "Broddas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Brytta",
+		  "plural" : "Bryttas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bucca",
+		  "plural" : "Buccas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bullroarer",
+		  "plural" : "Bullroarers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bungo",
+		  "plural" : "Bungos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Butterbur",
+		  "plural" : "Butterburs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Calembel",
+		  "plural" : "Calembels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Calimehtar",
+		  "plural" : "Calimehtars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Calion",
+		  "plural" : "Calions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Calmacil",
+		  "plural" : "Calmacils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Captain",
+		  "plural" : "Captains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Caranthir",
+		  "plural" : "Caranthirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Carcharoth",
+		  "plural" : "Carcharoths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Castamir",
+		  "plural" : "Castamirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Celeborn",
+		  "plural" : "Celeborns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Celebrian",
+		  "plural" : "Celebrians",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Celebrimbor",
+		  "plural" : "Celebrimbors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Celebrindor",
+		  "plural" : "Celebrindors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Celegorm",
+		  "plural" : "Celegorms",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Celepharn",
+		  "plural" : "Celepharns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cemendur",
+		  "plural" : "Cemendurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ceorl",
+		  "plural" : "Ceorls",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cirdan",
+		  "plural" : "Cirdans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cirion",
+		  "plural" : "Cirions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ciryaher",
+		  "plural" : "Ciryahers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ciryandil",
+		  "plural" : "Ciryandils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ciryatan",
+		  "plural" : "Ciryatans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ciryon",
+		  "plural" : "Ciryons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cleeve",
+		  "plural" : "Cleeves",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cotton",
+		  "plural" : "Cottons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Curufin",
+		  "plural" : "Curufins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Curunir",
+		  "plural" : "Curunirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Daeron",
+		  "plural" : "Daerons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dain",
+		  "plural" : "Dains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Daughters",
+		  "plural" : "Daughterss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Deagol",
+		  "plural" : "Deagols",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Denethor",
+		  "plural" : "Denethors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Deor",
+		  "plural" : "Deors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Deorwine",
+		  "plural" : "Deorwines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dernhelm",
+		  "plural" : "Dernhelms",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Diamond",
+		  "plural" : "Diamonds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dior",
+		  "plural" : "Diors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dis",
+		  "plural" : "Diss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dol",
+		  "plural" : "Dols",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dori",
+		  "plural" : "Doris",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dorlas",
+		  "plural" : "Dorlass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Draugluin",
+		  "plural" : "Draugluins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Duilin",
+		  "plural" : "Duilins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Durin",
+		  "plural" : "Durins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Durin's",
+		  "plural" : "Durin'ss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dwalin",
+		  "plural" : "Dwalins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Earendil",
+		  "plural" : "Earendils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Earendur",
+		  "plural" : "Earendurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Earnil",
+		  "plural" : "Earnils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Earnur",
+		  "plural" : "Earnurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Earwen",
+		  "plural" : "Earwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ecthelion",
+		  "plural" : "Ecthelions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Egalmoth",
+		  "plural" : "Egalmoths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eilinel",
+		  "plural" : "Eilinels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elanor",
+		  "plural" : "Elanors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elbereth",
+		  "plural" : "Elbereths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eldacar",
+		  "plural" : "Eldacars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eldarion",
+		  "plural" : "Eldarions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elemmakil",
+		  "plural" : "Elemmakils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elendil",
+		  "plural" : "Elendils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elendor",
+		  "plural" : "Elendors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elendur",
+		  "plural" : "Elendurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elenna",
+		  "plural" : "Elennas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elenwe",
+		  "plural" : "Elenwes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elessar",
+		  "plural" : "Elessars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elfhelm",
+		  "plural" : "Elfhelms",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elfhild",
+		  "plural" : "Elfhilds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elfwine",
+		  "plural" : "Elfwines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elfwine",
+		  "plural" : "Elfwines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elladan",
+		  "plural" : "Elladans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elmo",
+		  "plural" : "Elmos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elrohir",
+		  "plural" : "Elrohirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elrond",
+		  "plural" : "Elronds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elros",
+		  "plural" : "Elross",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elu",
+		  "plural" : "Elus",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elured",
+		  "plural" : "Elureds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elurin",
+		  "plural" : "Elurins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elvenking",
+		  "plural" : "Elvenkings",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elwe",
+		  "plural" : "Elwes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elwing",
+		  "plural" : "Elwings",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Emeldir",
+		  "plural" : "Emeldirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Emerie",
+		  "plural" : "Emeries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Enel",
+		  "plural" : "Enels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Enelye",
+		  "plural" : "Enelyes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eol",
+		  "plural" : "Eols",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eomer",
+		  "plural" : "Eomers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eomund",
+		  "plural" : "Eomunds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eonwe",
+		  "plural" : "Eonwes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eorl",
+		  "plural" : "Eorls",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eothain",
+		  "plural" : "Eothains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eotheod",
+		  "plural" : "Eotheods",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eowyn",
+		  "plural" : "Eowyns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eradan",
+		  "plural" : "Eradans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Erendis",
+		  "plural" : "Erendiss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Erestor",
+		  "plural" : "Erestors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Erkenbrand",
+		  "plural" : "Erkenbrands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eru",
+		  "plural" : "Erus",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Este",
+		  "plural" : "Estes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Estel",
+		  "plural" : "Estels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Estelmo",
+		  "plural" : "Estelmos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fair",
+		  "plural" : "Fairs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Falassion",
+		  "plural" : "Falassions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Falastur",
+		  "plural" : "Falasturs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Faniel",
+		  "plural" : "Faniels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Faramir",
+		  "plural" : "Faramirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Farmer",
+		  "plural" : "Farmers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fastred",
+		  "plural" : "Fastreds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fat",
+		  "plural" : "Fats",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Feanor",
+		  "plural" : "Feanors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Felagund",
+		  "plural" : "Felagunds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Felarof",
+		  "plural" : "Felarofs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Female",
+		  "plural" : "Females",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fengel",
+		  "plural" : "Fengels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ferny",
+		  "plural" : "Fernys",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ferumbras",
+		  "plural" : "Ferumbrass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fili",
+		  "plural" : "Filis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Finarfin",
+		  "plural" : "Finarfins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Findis",
+		  "plural" : "Findiss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Finduilas",
+		  "plural" : "Finduilass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fingolfin",
+		  "plural" : "Fingolfins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fingon",
+		  "plural" : "Fingons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Finrod",
+		  "plural" : "Finrods",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Finvain",
+		  "plural" : "Finvains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Finwe",
+		  "plural" : "Finwes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Firiel",
+		  "plural" : "Firiels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Folcwine",
+		  "plural" : "Folcwines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Forlong",
+		  "plural" : "Forlongs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fortinbras",
+		  "plural" : "Fortinbrass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fountain",
+		  "plural" : "Fountains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Frea",
+		  "plural" : "Freas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Frealaf",
+		  "plural" : "Frealafs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Freawine",
+		  "plural" : "Freawines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Freca",
+		  "plural" : "Frecas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fredegar",
+		  "plural" : "Fredegars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Frerin",
+		  "plural" : "Frerins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Frodo",
+		  "plural" : "Frodos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fror",
+		  "plural" : "Frors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fuinur",
+		  "plural" : "Fuinurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fundin",
+		  "plural" : "Fundins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Galador",
+		  "plural" : "Galadors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Galadriel",
+		  "plural" : "Galadriels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Galdor",
+		  "plural" : "Galdors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gamgee",
+		  "plural" : "Gamgees",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gamil",
+		  "plural" : "Gamils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gamling",
+		  "plural" : "Gamlings",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gandalf",
+		  "plural" : "Gandalfs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gerontius",
+		  "plural" : "Gerontiuss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "GhanburiGhan",
+		  "plural" : "GhanburiGhans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gildor",
+		  "plural" : "Gildors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gilgalad",
+		  "plural" : "Gilgalads",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gilrain",
+		  "plural" : "Gilrains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gimilkhad",
+		  "plural" : "Gimilkhads",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gimilzor",
+		  "plural" : "Gimilzors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gimli",
+		  "plural" : "Gimlis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ginglith",
+		  "plural" : "Gingliths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Girion",
+		  "plural" : "Girions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Glanhir",
+		  "plural" : "Glanhirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Glaurung",
+		  "plural" : "Glaurungs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gloin",
+		  "plural" : "Gloins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gloredhel",
+		  "plural" : "Gloredhels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Glorfindel",
+		  "plural" : "Glorfindels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Goldberry",
+		  "plural" : "Goldberrys",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Goldwine",
+		  "plural" : "Goldwines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Golfimbul",
+		  "plural" : "Golfimbuls",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gollum",
+		  "plural" : "Gollums",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gondolin",
+		  "plural" : "Gondolins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gondor",
+		  "plural" : "Gondors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gorbag",
+		  "plural" : "Gorbags",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gorlim",
+		  "plural" : "Gorlims",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gormadoc",
+		  "plural" : "Gormadocs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gorthaur",
+		  "plural" : "Gorthaurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gothmog",
+		  "plural" : "Gothmogs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gram",
+		  "plural" : "Grams",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Greenholm",
+		  "plural" : "Greenholms",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Grima",
+		  "plural" : "Grimas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Grimbold",
+		  "plural" : "Grimbolds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Grishnakh",
+		  "plural" : "Grishnakhs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Groin",
+		  "plural" : "Groins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gror",
+		  "plural" : "Grors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gwaihir",
+		  "plural" : "Gwaihirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gwathir",
+		  "plural" : "Gwathirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gwindor",
+		  "plural" : "Gwindors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hador",
+		  "plural" : "Hadors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Halbarad",
+		  "plural" : "Halbarads",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Haldad",
+		  "plural" : "Haldads",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Haldan",
+		  "plural" : "Haldans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Haldar",
+		  "plural" : "Haldars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Haldir",
+		  "plural" : "Haldirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Haleth",
+		  "plural" : "Haleths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hallas",
+		  "plural" : "Hallass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Halmir",
+		  "plural" : "Halmirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hama",
+		  "plural" : "Hamas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hamfast",
+		  "plural" : "Hamfasts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hammerhand",
+		  "plural" : "Hammerhands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Handir",
+		  "plural" : "Handirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hardang",
+		  "plural" : "Hardangs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hareth",
+		  "plural" : "Hareths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Haven",
+		  "plural" : "Havens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Havens",
+		  "plural" : "Havenss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Helm",
+		  "plural" : "Helms",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Herion",
+		  "plural" : "Herions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Herucalmo",
+		  "plural" : "Herucalmos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Herumor",
+		  "plural" : "Herumors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Herunumen",
+		  "plural" : "Herunumens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hildeson",
+		  "plural" : "Hildesons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hirgon",
+		  "plural" : "Hirgons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hiril",
+		  "plural" : "Hirils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "hobbits",
+		  "plural" : "hobbitss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hostamir",
+		  "plural" : "Hostamirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Huan",
+		  "plural" : "Huans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hundar",
+		  "plural" : "Hundars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Huor",
+		  "plural" : "Huors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hurin",
+		  "plural" : "Hurins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hyarmendacil",
+		  "plural" : "Hyarmendacils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ibun",
+		  "plural" : "Ibuns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Idril",
+		  "plural" : "Idrils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ilmare",
+		  "plural" : "Ilmares",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Iluvatar",
+		  "plural" : "Iluvatars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Imbar",
+		  "plural" : "Imbars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Imin",
+		  "plural" : "Imins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Iminye",
+		  "plural" : "Iminyes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Imrahil",
+		  "plural" : "Imrahils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "in",
+		  "plural" : "ins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Indis",
+		  "plural" : "Indiss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Inglor",
+		  "plural" : "Inglors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Inglorion",
+		  "plural" : "Inglorions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ingwe",
+		  "plural" : "Ingwes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Inziladun",
+		  "plural" : "Inziladuns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Inzilbeth",
+		  "plural" : "Inzilbeths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Irilde",
+		  "plural" : "Irildes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Irime",
+		  "plural" : "Irimes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Irmo",
+		  "plural" : "Irmos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ironfoot",
+		  "plural" : "Ironfoots",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Isildur",
+		  "plural" : "Isildurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Isilme",
+		  "plural" : "Isilmes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Isilmo",
+		  "plural" : "Isilmos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Isumbras",
+		  "plural" : "Isumbrass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ivriniel",
+		  "plural" : "Ivriniels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Khamul",
+		  "plural" : "Khamuls",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Khim",
+		  "plural" : "Khims",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Kili",
+		  "plural" : "Kilis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Kuvion",
+		  "plural" : "Kuvions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lagduf",
+		  "plural" : "Lagdufs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lalaith",
+		  "plural" : "Lalaiths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Legolas",
+		  "plural" : "Legolass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lenwe",
+		  "plural" : "Lenwes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Leod",
+		  "plural" : "Leods",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Leofa",
+		  "plural" : "Leofas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lindir",
+		  "plural" : "Lindirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lobelia",
+		  "plural" : "Lobelias",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Long",
+		  "plural" : "Longs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lorien",
+		  "plural" : "Loriens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lotho",
+		  "plural" : "Lothos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lugdush",
+		  "plural" : "Lugdushs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lurtz",
+		  "plural" : "Lurtzs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Luthien",
+		  "plural" : "Luthiens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mablung",
+		  "plural" : "Mablungs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Maedhros",
+		  "plural" : "Maedhross",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Maeglin",
+		  "plural" : "Maeglins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Maggot",
+		  "plural" : "Maggots",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Maglor",
+		  "plural" : "Maglors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Magor",
+		  "plural" : "Magors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mahtan",
+		  "plural" : "Mahtans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Maiar",
+		  "plural" : "Maiars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Malach",
+		  "plural" : "Malachs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Malbeth",
+		  "plural" : "Malbeths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mallor",
+		  "plural" : "Mallors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Malvegil",
+		  "plural" : "Malvegils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Man",
+		  "plural" : "Mans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Manthor",
+		  "plural" : "Manthors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Manwe",
+		  "plural" : "Manwes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Marach",
+		  "plural" : "Marachs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mardil",
+		  "plural" : "Mardils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Marish",
+		  "plural" : "Marishs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mauhur",
+		  "plural" : "Mauhurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Meleth",
+		  "plural" : "Meleths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Melian",
+		  "plural" : "Melians",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Meneldil",
+		  "plural" : "Meneldils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Meneldur",
+		  "plural" : "Meneldurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Meriadoc",
+		  "plural" : "Meriadocs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mim",
+		  "plural" : "Mims",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Minalcar",
+		  "plural" : "Minalcars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Minardil",
+		  "plural" : "Minardils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Minastir",
+		  "plural" : "Minastirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Minyatur",
+		  "plural" : "Minyaturs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Miriel",
+		  "plural" : "Miriels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mithrandir",
+		  "plural" : "Mithrandirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Moon",
+		  "plural" : "Moons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Morgoth",
+		  "plural" : "Morgoths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Morwen",
+		  "plural" : "Morwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mouth",
+		  "plural" : "Mouths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Muzgash",
+		  "plural" : "Muzgashs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nahar",
+		  "plural" : "Nahars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nain",
+		  "plural" : "Nains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Namo",
+		  "plural" : "Namos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Narmacil",
+		  "plural" : "Narmacils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Narvi",
+		  "plural" : "Narvis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nerdanel",
+		  "plural" : "Nerdanels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nessa",
+		  "plural" : "Nessas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nienna",
+		  "plural" : "Niennas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nienor",
+		  "plural" : "Nienors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nimloth",
+		  "plural" : "Nimloths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nimrodel",
+		  "plural" : "Nimrodels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Niniel",
+		  "plural" : "Niniels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nolimon",
+		  "plural" : "Nolimons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nom",
+		  "plural" : "Noms",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nori",
+		  "plural" : "Noris",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Numenor",
+		  "plural" : "Numenors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Oakenshield",
+		  "plural" : "Oakenshields",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ohtar",
+		  "plural" : "Ohtars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Oin",
+		  "plural" : "Oins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Olorin",
+		  "plural" : "Olorins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Olwe",
+		  "plural" : "Olwes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ondoher",
+		  "plural" : "Ondohers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ori",
+		  "plural" : "Oris",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ornendil",
+		  "plural" : "Ornendils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Orodreth",
+		  "plural" : "Orodreths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Orome",
+		  "plural" : "Oromes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Oropher",
+		  "plural" : "Orophers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Orophin",
+		  "plural" : "Orophins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Osse",
+		  "plural" : "Osses",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ostoher",
+		  "plural" : "Ostohers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Paladin",
+		  "plural" : "Paladins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Palantir",
+		  "plural" : "Palantirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Pallando",
+		  "plural" : "Pallandos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Pearl",
+		  "plural" : "Pearls",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Pelendur",
+		  "plural" : "Pelendurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Pengolodh",
+		  "plural" : "Pengolodhs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Peregrin",
+		  "plural" : "Peregrins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Pervinca",
+		  "plural" : "Pervincas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Pharazon",
+		  "plural" : "Pharazons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Pimpernel",
+		  "plural" : "Pimpernels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Primula",
+		  "plural" : "Primulas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Queen",
+		  "plural" : "Queens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Quickbeam",
+		  "plural" : "Quickbeams",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Radagast",
+		  "plural" : "Radagasts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rian",
+		  "plural" : "Rians",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rohan",
+		  "plural" : "Rohans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Romendacil",
+		  "plural" : "Romendacils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rosie",
+		  "plural" : "Rosies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rumil",
+		  "plural" : "Rumils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "SackvilleBaggins",
+		  "plural" : "SackvilleBagginss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sador",
+		  "plural" : "Sadors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Saeros",
+		  "plural" : "Saeross",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sakalthor",
+		  "plural" : "Sakalthors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Salgant",
+		  "plural" : "Salgants",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Salmar",
+		  "plural" : "Salmars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Samwise",
+		  "plural" : "Samwises",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Saruman",
+		  "plural" : "Sarumans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sauron",
+		  "plural" : "Saurons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Scatha",
+		  "plural" : "Scathas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Seer",
+		  "plural" : "Seers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Serinde",
+		  "plural" : "Serindes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shadowfax",
+		  "plural" : "Shadowfaxs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shagrat",
+		  "plural" : "Shagrats",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shelob",
+		  "plural" : "Shelobs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Silmarien",
+		  "plural" : "Silmariens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Singollo",
+		  "plural" : "Singollos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Siriondil",
+		  "plural" : "Siriondils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Smaug",
+		  "plural" : "Smaugs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Smeagol",
+		  "plural" : "Smeagols",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Snowmane",
+		  "plural" : "Snowmanes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "son",
+		  "plural" : "sons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Soronto",
+		  "plural" : "Sorontos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Steelsheen",
+		  "plural" : "Steelsheens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Stewards",
+		  "plural" : "Stewardss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Stonehelm",
+		  "plural" : "Stonehelms",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Strider",
+		  "plural" : "Striders",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Surion",
+		  "plural" : "Surions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "TalElmar",
+		  "plural" : "TalElmars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tall",
+		  "plural" : "Talls",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tar",
+		  "plural" : "Tars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "TarAmandil",
+		  "plural" : "TarAmandils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tarannon",
+		  "plural" : "Tarannons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tarcil",
+		  "plural" : "Tarcils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tarondor",
+		  "plural" : "Tarondors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tata",
+		  "plural" : "Tatas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tatie",
+		  "plural" : "Taties",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Telchar",
+		  "plural" : "Telchars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Telemmaite",
+		  "plural" : "Telemmaites",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Telemnar",
+		  "plural" : "Telemnars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Telperien",
+		  "plural" : "Telperiens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Telumehtar",
+		  "plural" : "Telumehtars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Thengel",
+		  "plural" : "Thengels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Theoden",
+		  "plural" : "Theodens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Theodred",
+		  "plural" : "Theodreds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Theodwyn",
+		  "plural" : "Theodwyns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Thingol",
+		  "plural" : "Thingols",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Thorin",
+		  "plural" : "Thorins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Thorondir",
+		  "plural" : "Thorondirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Thorondor",
+		  "plural" : "Thorondors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Thrain",
+		  "plural" : "Thrains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Thranduil",
+		  "plural" : "Thranduils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Thror",
+		  "plural" : "Thrors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tilion",
+		  "plural" : "Tilions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tindomiel",
+		  "plural" : "Tindomiels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tinuviel",
+		  "plural" : "Tinuviels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tom",
+		  "plural" : "Toms",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Took",
+		  "plural" : "Tooks",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Treebeard",
+		  "plural" : "Treebeards",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Trotter",
+		  "plural" : "Trotters",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tulkas",
+		  "plural" : "Tulkass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tuor",
+		  "plural" : "Tuors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Turambar",
+		  "plural" : "Turambars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Turgon",
+		  "plural" : "Turgons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Turin",
+		  "plural" : "Turins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ufthak",
+		  "plural" : "Ufthaks",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ugluk",
+		  "plural" : "Ugluks",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Uinen",
+		  "plural" : "Uinens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Uldor",
+		  "plural" : "Uldors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ulfang",
+		  "plural" : "Ulfangs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ulfast",
+		  "plural" : "Ulfasts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ulmo",
+		  "plural" : "Ulmos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ulwarth",
+		  "plural" : "Ulwarths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Umbardacil",
+		  "plural" : "Umbardacils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Undomiel",
+		  "plural" : "Undomiels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ungoliant",
+		  "plural" : "Ungoliants",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Uole",
+		  "plural" : "Uoles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Urwen",
+		  "plural" : "Urwens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Usurper",
+		  "plural" : "Usurpers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vaire",
+		  "plural" : "Vaires",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Valacar",
+		  "plural" : "Valacars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Valandil",
+		  "plural" : "Valandils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Valandur",
+		  "plural" : "Valandurs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vana",
+		  "plural" : "Vanas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vanimelde",
+		  "plural" : "Vanimeldes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Varda",
+		  "plural" : "Vardas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vardamir",
+		  "plural" : "Vardamirs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vidugavia",
+		  "plural" : "Vidugavias",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vidumavi",
+		  "plural" : "Vidumavis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vinyarion",
+		  "plural" : "Vinyarions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vorondil",
+		  "plural" : "Vorondils",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Voronwe",
+		  "plural" : "Voronwes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Walda",
+		  "plural" : "Waldas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Whitfoot",
+		  "plural" : "Whitfoots",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Will",
+		  "plural" : "Wills",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "William",
+		  "plural" : "Williams",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Wulf",
+		  "plural" : "Wulfs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Yavanna",
+		  "plural" : "Yavannas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Yavien",
+		  "plural" : "Yaviens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Young",
+		  "plural" : "Youngs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zimraphel",
+		  "plural" : "Zimraphels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zimrathon",
+		  "plural" : "Zimrathons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zirak",
+		  "plural" : "Ziraks",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "delete this",
+		  "partofspeech" : "ARTICLE",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		}
+	]
+}

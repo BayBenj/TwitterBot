@@ -1,0 +1,3699 @@
+{ "words" : [
+		{
+		  "singular" : "Afrit",
+		  "plural" : "Afrits",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Basilisk",
+		  "plural" : "Basilisks",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Brownie",
+		  "plural" : "Brownies",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Centaur",
+		  "plural" : "Centaurs",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Demon",
+		  "plural" : "Demons",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Djin",
+		  "plural" : "Djinni",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Dragon",
+		  "plural" : "Dragons",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dwarf",
+		  "plural" : "Dwarves",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elf",
+		  "plural" : "Elves",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ettin",
+		  "plural" : "Ettins",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Faun",
+		  "plural" : "Fauns",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Gargoyle",
+		  "plural" : "Gargoyles",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Giant",
+		  "plural" : "Giants",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Titan",
+		  "plural" : "Titans",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Golem",
+		  "plural" : "Golems",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Gnome",
+		  "plural" : "Gnomes",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Griffin",
+		  "plural" : "Griffins",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Grotesque",
+		  "plural" : "Grotesques",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Harpy",
+		  "plural" : "Harpies",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY", "FEMALE"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Hippogriff",
+		  "plural" : "Hippogriffs",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Hydra",
+		  "plural" : "Hydras",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Incubus",
+		  "plural" : "Incubi",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY", "MALE"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Succubus",
+		  "plural" : "Succubui",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY", "FEMALE"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Kelpie",
+		  "plural" : "Kelpies",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Kobold",
+		  "plural" : "Kobolds",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Kraken",
+		  "plural" : "Krakens",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lamassu",
+		  "plural" : "***",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Leshy",
+		  "plural" : "Leshies",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Leprechaun",
+		  "plural" : "Leprechauns",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Leucrotta",
+		  "plural" : "Leucrottas",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Leviathan",
+		  "plural" : "Leviathans",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Gorgon",
+		  "plural" : "Gorgons",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Mermaid",
+		  "plural" : "Mermaids",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Merman",
+		  "plural" : "Mermen",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY", "MALE"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Minotaur",
+		  "plural" : "Minotaurs",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Naga",
+		  "plural" : "Nagas",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Naiad",
+		  "plural" : "Naiads",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Nixie",
+		  "plural" : "Nixies",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Ogre",
+		  "plural" : "Ogres",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Pegasus",
+		  "plural" : "Pegasi",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Phoenix",
+		  "plural" : "Phoenixes",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Pooka",
+		  "plural" : "Pookas",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Roc",
+		  "plural" : "Rocs",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Satyr",
+		  "plural" : "Satyrs",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Siren",
+		  "plural" : "Sirens",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sphinx",
+		  "plural" : "Sphinxes",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Troll",
+		  "plural" : "Trolls",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Unicorn",
+		  "plural" : "Unicorns",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vampire",
+		  "plural" : "Vampires",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Will-o'-the-wisp",
+		  "plural" : "Will-o'-the-wisps",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Wyvern",
+		  "plural" : "Wyverns",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Zombie",
+		  "plural" : "Zombies",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Skeleton",
+		  "plural" : "Skeletons",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lich",
+		  "plural" : "Liches",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Banshee",
+		  "plural" : "Banshees",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Ghoul",
+		  "plural" : "Ghouls",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ghast",
+		  "plural" : "Ghasts",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Spectre",
+		  "plural" : "Spectres",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Geist",
+		  "plural" : "Geists",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Ghost",
+		  "plural" : "Ghosts",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Duppy",
+		  "plural" : "Duppies",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Spirit",
+		  "plural" : "Spirits",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Apparition",
+		  "plural" : "Apparitions",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Ent",
+		  "plural" : "Ents",
+		  "partofspeech" : "noun",
+		  "tags" : ["TOLKIEN", "PRIVATE_DOMAIN", "CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Warg",
+		  "plural" : "Wargs",
+		  "partofspeech" : "noun",
+		  "tags" : ["TOLKIEN", "PRIVATE_DOMAIN", "CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Hobbit",
+		  "plural" : "Hobbits",
+		  "partofspeech" : "noun",
+		  "tags" : ["TOLKIEN", "PRIVATE_DOMAIN", "CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Balrog",
+		  "plural" : "Balrogs",
+		  "partofspeech" : "noun",
+		  "tags" : ["TOLKIEN", "PRIVATE_DOMAIN", "CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Goblin",
+		  "plural" : "Goblins",
+		  "partofspeech" : "noun",
+		  "tags" : ["TOLKIEN", "PRIVATE_DOMAIN", "CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Orc",
+		  "plural" : "Orcs",
+		  "partofspeech" : "noun",
+		  "tags" : ["TOLKIEN", "PRIVATE_DOMAIN", "CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Uruk",
+		  "plural" : "Uruk-hai",
+		  "partofspeech" : "noun",
+		  "tags" : ["TOLKIEN", "PRIVATE_DOMAIN", "CONCRETE", "MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+
+
+
+
+
+
+
+
+
+		{
+		  "singular" : "Village",
+		  "plural" : "Villages",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Town",
+		  "plural" : "Towns",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "City",
+		  "plural" : "Cities",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Castle",
+		  "plural" : "Castles",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fortress",
+		  "plural" : "Fortresses",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dungeon",
+		  "plural" : "Dungeons",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tower",
+		  "plural" : "Towers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Library",
+		  "plural" : "Libraries",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hall",
+		  "plural" : "Halls",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Inn",
+		  "plural" : "Inns",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Land",
+		  "plural" : "Lands",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Kingdom",
+		  "plural" : "Kingdoms",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Country",
+		  "plural" : "Countries",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Duchy",
+		  "plural" : "Duchies",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Estate",
+		  "plural" : "Estates",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Province",
+		  "plural" : "Provinces",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fief",
+		  "plural" : "Fiefs",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "House",
+		  "plural" : "Houses",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Domain",
+		  "plural" : "Domains",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dominion",
+		  "plural" : "Dominions",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{
+		  "infinitive" : "to go",
+		  "gerund" : "going",
+		  "participle" : "gone",
+		  "partofspeech" : "verb",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON",
+		
+		  "present" : "",
+		  "indicativepresentfirstsing" : "go",
+		  "indicativepresentfirstplur" : "go",
+		  "indicativepresentsecond" : "go",
+		  "indicativepresentthirdsing" : "goes",
+		  "indicativepresentthirdplur" : "go"
+		  
+		  "past" : "went",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+
+		},
+		{
+		  "infinitive" : "to be",
+		  "gerund" : "being",
+		  "participle" : "been",
+		  "partofspeech" : "verb",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON",
+		
+		  "present" : "",
+		  "indicativepresentfirstsing" : "am",
+		  "indicativepresentfirstplur" : "are",
+		  "indicativepresentsecond" : "are",
+		  "indicativepresentthirdsing" : "is",
+		  "indicativepresentthirdplur" : "are",
+
+		  "past" : "",
+		  "indicativepastfirstsing" : "was",
+		  "indicativepastfirstplur" : "were",
+		  "indicativepastsecond" : "were",
+		  "indicativepastthirdsing" : "was",
+		  "indicativepastthirdplur" : "were"
+		},
+		{
+		  "infinitive" : "to kill",
+		  "gerund" : "killing",
+		  "participle" : "killed",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "kill",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "killed",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to slay",
+		  "gerund" : "slaying",
+		  "participle" : "slain",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "slay",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "slew",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to slaughter",
+		  "gerund" : "slaughtering",
+		  "participle" : "slaughtered",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "slaughter",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "slaughtered",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to destroy",
+		  "gerund" : "destroying",
+		  "participle" : "destroyed",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "destroy",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "destroyed",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to wound",
+		  "gerund" : "wounding",
+		  "participle" : "wounded",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "wound",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "wounded",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to fight",
+		  "gerund" : "fighting",
+		  "participle" : "fought",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "fight",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "fought",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to smite",
+		  "gerund" : "smiting",
+		  "participle" : "smitten",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "smite",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "smote",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to strike",
+		  "gerund" : "striking",
+		  "participle" : "stricken",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "strike",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "struck",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to end",
+		  "gerund" : "ending",
+		  "participle" : "ended",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "end",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "ended",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to defeat",
+		  "gerund" : "defeating",
+		  "participle" : "defeated",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "defeat",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "defeated",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to prick",
+		  "gerund" : "pricking",
+		  "participle" : "pricked",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "prick",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "pricked",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to injure",
+		  "gerund" : "injuring",
+		  "participle" : "injured",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "injure",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "injured",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to hit",
+		  "gerund" : "hitting",
+		  "participle" : "hit",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "hit",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "hit",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to stick",
+		  "gerund" : "sticking",
+		  "participle" : "stuck",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "stick",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "stuck",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to trample",
+		  "gerund" : "trampling",
+		  "participle" : "trampled",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "trample",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "trampled",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to fell",
+		  "gerund" : "felling",
+		  "participle" : "felled",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "fell",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "felled",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to overcome",
+		  "gerund" : "overcoming",
+		  "participle" : "overcome",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "overcome",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "overcame",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to beat",
+		  "gerund" : "beating",
+		  "participle" : "beaten",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "beat",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "beat",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to overwhelm",
+		  "gerund" : "overwhelming",
+		  "participle" : "overwhelmed",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "overwhelm",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "overwhelmed",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to best",
+		  "gerund" : "besting",
+		  "participle" : "bested",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "best",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "bested",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to subdue",
+		  "gerund" : "subduing",
+		  "participle" : "subdued",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "subdue",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "subdued",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to topple",
+		  "gerund" : "toppling",
+		  "participle" : "toppled",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "topple",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "toppled",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to cripple",
+		  "gerund" : "crippling",
+		  "participle" : "crippled",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "cripple",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "crippled",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to hunt",
+		  "gerund" : "hunting",
+		  "participle" : "hunted",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "hunt",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "hunted",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to wrestle",
+		  "gerund" : "wrestling",
+		  "participle" : "wrestled",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "wrestle",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "wrestled",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to behead",
+		  "gerund" : "beheading",
+		  "participle" : "beheaded",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "behead",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "beheaded",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+		{
+		  "infinitive" : "to skin",
+		  "gerund" : "skinning",
+		  "participle" : "skinned",
+		  "partofspeech" : "verb",
+		  "tags" : ["VIOLENCE"],
+		  "frequency" : "COMMON",
+		  
+		  "present" : "skin",
+		  "indicativepresentfirstsing" : "",
+		  "indicativepresentfirstplur" : "",
+		  "indicativepresentsecond" : "",
+		  "indicativepresentthirdsing" : "",
+		  "indicativepresentthirdplur" : "",
+
+		  "past" : "skinned",
+		  "indicativepastfirstsing" : "",
+		  "indicativepastfirstplur" : "",
+		  "indicativepastsecond" : "",
+		  "indicativepastthirdsing" : "",
+		  "indicativepastthirdplur" : ""
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{
+		  "singular" : "nightfall",
+		  "plural" : "nightfalls",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "night",
+		  "plural" : "nights",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "nighttime",
+		  "plural" : "nighttimes",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "eve",
+		  "plural" : "eves",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "even",
+		  "plural" : "evens",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "eventide",
+		  "plural" : "eventides",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "evening",
+		  "plural" : "evenings",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "dusk",
+		  "plural" : "dusks",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sunset",
+		  "plural" : "sunsets ",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sundown",
+		  "plural" : "sundowns",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "day's end",
+		  "plural" : "day's ends",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "midnight",
+		  "plural" : "midnights",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "dawn",
+		  "plural" : "dawns",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "morn",
+		  "plural" : "morns",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "morning",
+		  "plural" : "mornings",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "daybreak",
+		  "plural" : "daybreaks",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "morningtide",
+		  "plural" : "morningtides",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "day",
+		  "plural" : "days",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "midday",
+		  "plural" : "middays",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "noon",
+		  "plural" : "noons",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "twilight",
+		  "plural" : "twilights",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "afternoon",
+		  "plural" : "afternoons",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+		{
+		  "text" : "Red",
+		  "comparative" : "Redder",
+		  "superlative" : "Reddest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Orange",
+		  "comparative" : "Oranger",
+		  "superlative" : "Orangest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Yellow",
+		  "comparative" : "Yellower",
+		  "superlative" : "Yellowest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Green",
+		  "comparative" : "Greener",
+		  "superlative" : "Greenest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Blue",
+		  "comparative" : "Bluer",
+		  "superlative" : "Bluest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Violet",
+		  "comparative" : "more violet",
+		  "superlative" : "most violet",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Indigo",
+		  "comparative" : "more indigo",
+		  "superlative" : "most indigo",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR", "MODERN"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Purple",
+		  "comparative" : "purpler",
+		  "superlative" : "purplest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Black",
+		  "comparative" : "blacker",
+		  "superlative" : "blackest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "White",
+		  "comparative" : "whiter",
+		  "superlative" : "whitest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Azure",
+		  "comparative" : "more azure",
+		  "superlative" : "most azure",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Verdant",
+		  "comparative" : "more verdant",
+		  "superlative" : "most verdant",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Teal",
+		  "comparative" : "more teal",
+		  "superlative" : "most teal",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Umber",
+		  "comparative" : "more umber",
+		  "superlative" : "most umber",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Viridian",
+		  "comparative" : "more viridian",
+		  "superlative" : "most viridian",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Virid",
+		  "comparative" : "more virid",
+		  "superlative" : "most virid",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Russet",
+		  "comparative" : "more russet",
+		  "superlative" : "most russet",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Saffron",
+		  "comparative" : "more saffron",
+		  "superlative" : "most saffron",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Auburn",
+		  "comparative" : "more auburn",
+		  "superlative" : "most auburn",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Brown",
+		  "comparative" : "browner",
+		  "superlative" : "brownest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Crimson",
+		  "comparative" : "more crimson",
+		  "superlative" : "most crimson",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Gold",
+		  "comparative" : "golder",
+		  "superlative" : "goldest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Silver",
+		  "comparative" : "more silver",
+		  "superlative" : "silverest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Scarlet",
+		  "comparative" : "more scarlet",
+		  "superlative" : "most scarlet",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+
+
+
+
+		{
+		  "text" : "Light",
+		  "comparative" : "lighter",
+		  "superlative" : "lightest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Bright",
+		  "comparative" : "brighter",
+		  "superlative" : "brightest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Brilliant",
+		  "comparative" : "more brilliant",
+		  "superlative" : "most brillant",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Shining",
+		  "comparative" : "shinier",
+		  "superlative" : "shiniest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Lustrous",
+		  "comparative" : "more lustrous",
+		  "superlative" : "most lustrous",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Luminous",
+		  "comparative" : "more luminous",
+		  "superlative" : "most luminous",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Gleaming",
+		  "comparative" : "more gleaming",
+		  "superlative" : "most gleaming",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+
+
+		{
+		  "text" : "Dark",
+		  "comparative" : "darker",
+		  "superlative" : "darkest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+
+
+		{
+		  "text" : "Evil",
+		  "comparative" : "eviler",
+		  "superlative" : "evilest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Deadly",
+		  "comparative" : "deadlier",
+		  "superlative" : "deadliest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Forsaken",
+		  "comparative" : "more forsaken",
+		  "superlative" : "most forsaken",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Vicious",
+		  "comparative" : "more vicious",
+		  "superlative" : "most vicious",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Infamous",
+		  "comparative" : "more infamous",
+		  "superlative" : "most infamous",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Abandoned",
+		  "comparative" : "more abandoned",
+		  "superlative" : "most abandoned",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Mad",
+		  "comparative" : "madder",
+		  "superlative" : "maddest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Crazed",
+		  "comparative" : "more crazed",
+		  "superlative" : "most crazed",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Vengeful",
+		  "comparative" : "more vengeful",
+		  "superlative" : "most vengeful",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Wicked",
+		  "comparative" : "more wicked",
+		  "superlative" : "wickedest",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Tortured",
+		  "comparative" : "more tortured",
+		  "superlative" : "most tortured",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+		{
+		  "text" : "Fie",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Egad",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Gadzooks",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Gar",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Od",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Pardie",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Zounds",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Alas",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Alack",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "O",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Oh",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Yoicks",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Wellaway",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Marry",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Storms",
+		  "partofspeech" : "interjection",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+
+
+		{
+		  "singular" : "Bastard",
+		  "plural" : "Bastards",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Whoremonger",
+		  "plural" : "Whoremongers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Whoreson",
+		  "plural" : "Whoresons",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Blasphemer",
+		  "plural" : "Blasphemers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT", "RELIGIOUS"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rapscallion",
+		  "plural" : "Rapscallions",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Scoundrel",
+		  "plural" : "Scoundrels",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Maniac",
+		  "plural" : "Maniacs",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Idiot",
+		  "plural" : "Idiots",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Imbecile",
+		  "plural" : "Imbeciles",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Yaldson",
+		  "plural" : "Yaldsons",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tallowcatch",
+		  "plural" : "Tallowcatches",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Snoutband",
+		  "plural" : "Snoutbands",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Saddle-goose",
+		  "plural" : "Saddle-geese",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Scobberlotcher",
+		  "plural" : "Scobberlotchers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Raggabrash",
+		  "plural" : "Raggabrashes",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mumblecrust",
+		  "plural" : "Mumblecrusts",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lubberwort",
+		  "plural" : "Lubberworts",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Loiter-sack",
+		  "plural" : "Loiter-sacks",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fopdoodle",
+		  "plural" : "Fopdoodles",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fustylugs",
+		  "plural" : "Fustylugs",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Driggle-draggle",
+		  "plural" : "Driggle-draggles",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nincompoop",
+		  "plural" : "Nincompoops",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Abydocomist",
+		  "plural" : "Abydocomists",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bedswerver",
+		  "plural" : "Bedswervers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bespawler",
+		  "plural" : "Bespawlers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dalcop",
+		  "plural" : "Dalcops",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Drate-poke",
+		  "plural" : "Drate-pokes",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fustilarian",
+		  "plural" : "Fustilarians",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Coward",
+		  "plural" : "Cowards",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dastard",
+		  "plural" : "Dastards",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Malingerer",
+		  "plural" : "Malingerers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Recreant",
+		  "plural" : "Recreants",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Faintheart",
+		  "plural" : "Fainthearts",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Wastrel",
+		  "plural" : "Wastrels",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Scum",
+		  "plural" : "Scums",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Slime",
+		  "plural" : "Slimes",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Filth",
+		  "plural" : "Filths",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dross",
+		  "plural" : "Dross",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+		{
+		  "singular" : "Barbarian",
+		  "plural" : "Barbarians",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bard",
+		  "plural" : "Bards",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cleric",
+		  "plural" : "Clerics",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Druid",
+		  "plural" : "Druids",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fighter",
+		  "plural" : "Fighters",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Wizard",
+		  "plural" : "Wizards",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Monk",
+		  "plural" : "Monks",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mystic",
+		  "plural" : "Mystics",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Paladin",
+		  "plural" : "Paladins",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ranger",
+		  "plural" : "Rangers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Scorcerer",
+		  "plural" : "Scorcerers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Thief",
+		  "plural" : "Thieves",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rogue",
+		  "plural" : "Rogues",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Warlock",
+		  "plural" : "Warlocks",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mage",
+		  "plural" : "Magi",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Warrior",
+		  "plural" : "Warriors",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Illusionist",
+		  "plural" : "Illusionists",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Magician",
+		  "plural" : "Magicians",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Guilder",
+		  "plural" : "Guilders",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Raider",
+		  "plural" : "Raiders",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Champion",
+		  "plural" : "Champions",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Templar",
+		  "plural" : "Templar",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Trader",
+		  "plural" : "Traders",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gladiator",
+		  "plural" : "Gladiators",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gypsy",
+		  "plural" : "Gypsies",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Handler",
+		  "plural" : "Handlers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tinker",
+		  "plural" : "Tinkers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Commoner",
+		  "plural" : "Commoners",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Peasant",
+		  "plural" : "Peasants",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Peon",
+		  "plural" : "Peons",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cavalier",
+		  "plural" : "Cavaliers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mariner",
+		  "plural" : "Mariners",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Crusader",
+		  "plural" : "Crusaders",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shaman",
+		  "plural" : "Shamen",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Knight",
+		  "plural" : "Knights",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ascetic",
+		  "plural" : "Ascetics",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Apothecary",
+		  "plural" : "Apothecaries",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Appraiser",
+		  "plural" : "Appraisers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Blacksmith",
+		  "plural" : "Blacksmiths",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cartographer",
+		  "plural" : "Cartographers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Engineer",
+		  "plural" : "Engineers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Guide",
+		  "plural" : "Guides",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Healer",
+		  "plural" : "Healers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Historian",
+		  "plural" : "Historians",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Scribe",
+		  "plural" : "Scribes",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Seer",
+		  "plural" : "Seers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Prophet",
+		  "plural" : "Prophets",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Oracle",
+		  "plural" : "Oracles",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Spiritualist",
+		  "plural" : "Spiritualists",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Alchemist",
+		  "plural" : "Alchemists",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Artificer",
+		  "plural" : "Artificers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elementalist",
+		  "plural" : "Elementalists",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Berserker",
+		  "plural" : "Berserkers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Adept",
+		  "plural" : "Adepts",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Soldier",
+		  "plural" : "Soldiers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tradesman",
+		  "plural" : "Tradesmen",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Companion",
+		  "plural" : "Companions",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hero",
+		  "plural" : "Heroes",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hoplite",
+		  "plural" : "Hoplites",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Barber",
+		  "plural" : "Barbers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Beggar",
+		  "plural" : "Beggars",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hunter",
+		  "plural" : "Hunters",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Priest",
+		  "plural" : "Priests",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mercenary",
+		  "plural" : "Mercenaries",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Necromancer",
+		  "plural" : "Necromancers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Porter",
+		  "plural" : "Porters",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Warden",
+		  "plural" : "Wardens",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bandit",
+		  "plural" : "Bandits",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE", "INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cultist",
+		  "plural" : "Cultists",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Philosopher",
+		  "plural" : "Philosophers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Guildsman",
+		  "plural" : "Guildsmen",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Parson",
+		  "plural" : "Parsons",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Physician",
+		  "plural" : "Physicians",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sailor",
+		  "plural" : "Sailors",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Scholar",
+		  "plural" : "Scholars",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jester",
+		  "plural" : "Jesters",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Astrologer",
+		  "plural" : "Astrologers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vassal",
+		  "plural" : "Vassals",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Liege",
+		  "plural" : "Lieges",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Noble",
+		  "plural" : "Nobles",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "King",
+		  "plural" : "Kings",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bailiff",
+		  "plural" : "Bailiffs",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Reeve",
+		  "plural" : "Reeves",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Serf",
+		  "plural" : "Serfs",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Villein",
+		  "plural" : "Villeins",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cottager",
+		  "plural" : "Cottagers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Servant",
+		  "plural" : "Servants",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lord",
+		  "plural" : "Lords",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lady",
+		  "plural" : "Ladies",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Almoner",
+		  "plural" : "Almoners",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Atilliator",
+		  "plural" : "Atilliators",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bottler",
+		  "plural" : "Bottlers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Butler",
+		  "plural" : "Butlers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Carder",
+		  "plural" : "Carders",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Carpenter",
+		  "plural" : "Carpenters",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Carter",
+		  "plural" : "Carters",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Castellan",
+		  "plural" : "Castellans",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Chaplain",
+		  "plural" : "Chaplains",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Clerk",
+		  "plural" : "Clerks",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Constable",
+		  "plural" : "Constables",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cook",
+		  "plural" : "Cooks",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cottar",
+		  "plural" : "Cottars",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ditcher",
+		  "plural" : "Ditchers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dyer",
+		  "plural" : "Dyers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ewerer",
+		  "plural" : "Ewerers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Falconer",
+		  "plural" : "Falconers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fuller",
+		  "plural" : "Fuller",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Glazier",
+		  "plural" : "Glaziers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gong farmer",
+		  "plural" : "Gong farmers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hayward",
+		  "plural" : "Haywards",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Herald",
+		  "plural" : "Heralds",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Laird",
+		  "plural" : "Lairds",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Marshal",
+		  "plural" : "Marshals",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mason",
+		  "plural" : "Masons",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Messenger",
+		  "plural" : "Messengers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Runner",
+		  "plural" : "Runners",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Miner",
+		  "plural" : "Miners",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Minstrel",
+		  "plural" : "Minstrels",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sapper",
+		  "plural" : "Sappers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Scullion",
+		  "plural" : "Scullions",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shearman",
+		  "plural" : "Shearmen",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shoemaker",
+		  "plural" : "Shoemakers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cobbler",
+		  "plural" : "Cobblers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Spinster",
+		  "plural" : "Spinsters",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Steward",
+		  "plural" : "Stewards",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Squire",
+		  "plural" : "Squires",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Watchman",
+		  "plural" : "Watchmaen",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Weaver",
+		  "plural" : "Weavers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Woodworker",
+		  "plural" : "Woodworkers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Butcher",
+		  "plural" : "Butchers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Page",
+		  "plural" : "Pages",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Smith",
+		  "plural" : "Smiths",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shrubber",
+		  "plural" : "Shrubbers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Brewer",
+		  "plural" : "Brewers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cooper",
+		  "plural" : "Coopers",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cartwright",
+		  "plural" : "Cartwrights",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Emperor",
+		  "plural" : "Emperors",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Diplomat",
+		  "plural" : "Diplomats",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Scop",
+		  "plural" : "Scops",
+		  "partofspeech" : "noun",
+		  "tags" : ["CONCRETE", "ROLE"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{
+		  "text" : "from",
+		  "partofspeech" : "preposition",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "at",
+		  "partofspeech" : "preposition",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "on",
+		  "partofspeech" : "preposition",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "in",
+		  "partofspeech" : "preposition",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "upon",
+		  "partofspeech" : "preposition",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "within",
+		  "partofspeech" : "preposition",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "inside",
+		  "partofspeech" : "preposition",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "outside",
+		  "partofspeech" : "preposition",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "without",
+		  "partofspeech" : "preposition",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+
+
+
+
+
+		{
+		  "text" : "the",
+		  "partofspeech" : "article",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "a",
+		  "partofspeech" : "article",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+
+		{
+		  "text" : "I",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["FIRST_PERSON", "SINGULAR", "SUBJECTIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "you",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["SECOND_PERSON", "SINGULAR", "SECOND_PERSON", "PLURAL", "SUBJECTIVE", "OBJECTIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "thou",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["SECOND_PERSON", "SINGULAR", "SECOND_PERSON", "PLURAL", "ARCHAIC", "SUBJECTIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "ye",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["SECOND_PERSON", "SINGULAR", "SECOND_PERSON", "PLURAL", "ARCHAIC", "SUBJECTIVE"],
+		  "frequency" : "COMMON"
+		},
+
+		{
+		  "text" : "we",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["FIRST_PERSON", "PLURAL", "SUBJECTIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "it",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["THIRD_PERSON", "SINGULAR", "SUBJECTIVE", "OBJECTIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "he",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["THIRD_PERSON", "SINGULAR", "MALE", "SUBJECTIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "she",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["THIRD_PERSON", "SINGULAR", "FEMALE", "SUBJECTIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "they",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["THIRD_PERSON", "PLURAL", "SUBJECTIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "me",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["FIRST_PERSON", "SINGULAR", "OBJECTIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "thee",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["SECOND_PERSON", "SINGULAR", "PLURAL", "ARCHAIC", "OBJECTIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "him",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["SECOND_PERSON", "SINGULAR", "THIRD_PERSON", "OBJECTIVE", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "her",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["SECOND_PERSON", "SINGULAR", "THIRD_PERSON", "OBJECTIVE", "FEMALE", "POSSESSIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "them",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["THIRD_PERSON", "PLURAL", "OBJECTIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "my",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["FIRST_PERSON", "SINGULAR", "POSSESSIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "mine",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["THIRD_PERSON", "PLURAL", "POSSESSIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "thy",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["SECOND_PERSON", "SINGULAR", "POSSESSIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "thine",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["SECOND_PERSON", "SINGULAR", "POSSESSIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "its",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["THIRD_PERSON", "SINGULAR", "POSSESSIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "his",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["THIRD_PERSON", "SINGULAR", "POSSESSIVE", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "our",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["FIRST_PERSON", "PLURAL", "POSSESSIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "your",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["SECOND_PERSON", "PLURAL", "SINGULAR", "POSSESSIVE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "their",
+		  "partofspeech" : "pronoun",
+		  "tags" : ["THIRD_PERSON", "PLURAL", "POSSESSIVE"],
+		  "frequency" : "COMMON"
+		},
+		
+		
+		
+		
+		
+		
+		
+		
+		{
+		  "singular" : "Beowulf",
+		  "plural" : "Beowulfs",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hrothgar",
+		  "plural" : "Hrothgars",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Grendel",
+		  "plural" : "Grendels",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Beow",
+		  "plural" : "Beows",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Halfdane",
+		  "plural" : "Halfdanes",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Wealhtheow",
+		  "plural" : "Wealhtheows",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Unferth",
+		  "plural" : "Unferths",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hrethric",
+		  "plural" : "Hrethrics",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hrothmund",
+		  "plural" : "Hrothmunds",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hrothulf",
+		  "plural" : "Hrothulfs",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Aeschere",
+		  "plural" : "Aescheres",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hygelac",
+		  "plural" : "Hygelacs",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hygd",
+		  "plural" : "Hygds",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Wiglaf",
+		  "plural" : "Wiglafs",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ecgtheow",
+		  "plural" : "Ecgtheows",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hrethel",
+		  "plural" : "Hrethels",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Breca",
+		  "plural" : "Brecas",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sigemund",
+		  "plural" : "Sigemunds",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Heremod",
+		  "plural" : "Heremods",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "MALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Modthryth",
+		  "plural" : "Modthryths",
+		  "partofspeech" : "noun",
+		  "tags" : ["BEOWULF", "PUBLIC_DOMAIN", "PROPER", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zeus",
+		  "plural" : "Zeuses",
+		  "partofspeech" : "noun",
+		  "tags" : ["PROPER", "MALE", "DEITY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hades",
+		  "plural" : "Hades",
+		  "partofspeech" : "noun",
+		  "tags" : ["PROPER", "MALE", "DEITY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Arthur",
+		  "plural" : "",
+		  "partofspeech" : "noun",
+		  "tags" : ["PROPER", "FEMALE", "FAMOUS"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "MERLIN",
+		  "plural" : "",
+		  "partofspeech" : "noun",
+		  "tags" : ["PROPER", "FEMALE", "FAMOUS"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "arm",
+		  "plural" : "arms",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "head",
+		  "plural" : "heads",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "beard",
+		  "plural" : "beards",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "loins",
+		  "plural" : "loins",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "brow",
+		  "plural" : "brows",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "eye",
+		  "plural" : "eyes",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "breast",
+		  "plural" : "breasts",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "heart",
+		  "plural" : "hearts",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "neck",
+		  "plural" : "necks",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "back",
+		  "plural" : "backs",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "hand",
+		  "plural" : "hands",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "foot",
+		  "plural" : "feet",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "nose",
+		  "plural" : "noses",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "mouth",
+		  "plural" : "mouths",
+		  "partofspeech" : "noun",
+		  "tags" : ["BODY_PART"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+	]
+}
+
+
+
+

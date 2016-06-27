@@ -1,0 +1,255 @@
+{ "words" : [
+		{
+		  "singular" : "baggage",
+		  "plural" : "baggages",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "barnacle",
+		  "plural" : "barnacles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "bladder",
+		  "plural" : "bladders",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "bugbear",
+		  "plural" : "bugbears",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "clotpole",
+		  "plural" : "clotpoles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "coxcomb",
+		  "plural" : "coxcombs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "codpiece",
+		  "plural" : "codpieces",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "dewberry",
+		  "plural" : "dewberries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "fustilarian",
+		  "plural" : "fustilarians",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "giglet",
+		  "plural" : "giglets",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "gudgeon",
+		  "plural" : "gudgeons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "haggard",
+		  "plural" : "haggards",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "joithead",
+		  "plural" : "joitheads",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "lewdster",
+		  "plural" : "lewdsters",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "lout",
+		  "plural" : "louts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "mammet",
+		  "plural" : "mammets",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "measle",
+		  "plural" : "measles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "minnow",
+		  "plural" : "minnows",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "miscreant",
+		  "plural" : "miscreants",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "moldwarp",
+		  "plural" : "moldwarps",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pignut",
+		  "plural" : "pignuts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "puttock",
+		  "plural" : "puttocks",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pumpion",
+		  "plural" : "pumpions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ratsbane",
+		  "plural" : "ratsbanes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "scut",
+		  "plural" : "scuts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "skainsmate",
+		  "plural" : "skainsmates",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "strumpet",
+		  "plural" : "strumpets",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "varlot",
+		  "plural" : "varlots",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "vassal",
+		  "plural" : "vassals",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "wagtail",
+		  "plural" : "wagtails",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "knave",
+		  "plural" : "knaves",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "popinjay",
+		  "plural" : "popinjaies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "scullian",
+		  "plural" : "scullians",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "malcontent",
+		  "plural" : "malcontents",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "toad",
+		  "plural" : "toads",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "rascal",
+		  "plural" : "rascals",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["INSULT"],
+		  "frequency" : "COMMON"
+		},
+	]
+}

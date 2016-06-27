@@ -1,0 +1,2635 @@
+{ "words" : [
+		{
+		  "singular" : "outpost",
+		  "plural" : "outposts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "academy",
+		  "plural" : "academies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ruin",
+		  "plural" : "ruins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "refuge",
+		  "plural" : "refuges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "amphitheater",
+		  "plural" : "amphitheaters",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "den",
+		  "plural" : "dens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "spring",
+		  "plural" : "springs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tomb",
+		  "plural" : "tombs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "township",
+		  "plural" : "townships",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "lighthouse",
+		  "plural" : "lighthouses",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sanctum",
+		  "plural" : "sanctums",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "dig",
+		  "plural" : "digs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "flat",
+		  "plural" : "flats",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "arena",
+		  "plural" : "arenas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "mesa",
+		  "plural" : "mesas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "auntie",
+		  "plural" : "aunties",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "hovel",
+		  "plural" : "hovels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "chancery",
+		  "plural" : "chanceries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "river",
+		  "plural" : "rivers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "badlands",
+		  "plural" : "badlandss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "post",
+		  "plural" : "posts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "panorama",
+		  "plural" : "panoramas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ring",
+		  "plural" : "rings",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "moor",
+		  "plural" : "moors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "battlefield",
+		  "plural" : "battlefields",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "forge",
+		  "plural" : "forges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "bayou",
+		  "plural" : "bayous",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "bazaar",
+		  "plural" : "bazaars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cataract",
+		  "plural" : "cataracts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "gorge",
+		  "plural" : "gorges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "steppe",
+		  "plural" : "steppes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "woodland",
+		  "plural" : "woodlands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "nexus",
+		  "plural" : "nexuss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "well",
+		  "plural" : "wells",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "crypt",
+		  "plural" : "crypts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "mire",
+		  "plural" : "mires",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sand",
+		  "plural" : "sands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "wreckage",
+		  "plural" : "wreckages",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "shelf",
+		  "plural" : "shelfs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "garrison",
+		  "plural" : "garrisons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "vault",
+		  "plural" : "vaults",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pool",
+		  "plural" : "pools",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ruin",
+		  "plural" : "ruins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cabal",
+		  "plural" : "cabals",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "coffer",
+		  "plural" : "coffers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pit",
+		  "plural" : "pits",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pool",
+		  "plural" : "pools",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "caldera",
+		  "plural" : "calderas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "lake",
+		  "plural" : "lakes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "canopy",
+		  "plural" : "canopies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "vista",
+		  "plural" : "vistas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "castle",
+		  "plural" : "castles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cathedral",
+		  "plural" : "cathedrals",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cave",
+		  "plural" : "caves",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "colonnade",
+		  "plural" : "colonnades",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "garden",
+		  "plural" : "gardens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "coliseum",
+		  "plural" : "coliseums",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "estuary",
+		  "plural" : "estuaries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cinder",
+		  "plural" : "cinders",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cinder",
+		  "plural" : "cinders",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "glade",
+		  "plural" : "glades",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "city",
+		  "plural" : "cities",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "traitor",
+		  "plural" : "traitors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "retreat",
+		  "plural" : "retreats",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tower",
+		  "plural" : "towers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "beacon",
+		  "plural" : "beacons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "command",
+		  "plural" : "commands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tower",
+		  "plural" : "towers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "zone",
+		  "plural" : "zones",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "gorge",
+		  "plural" : "gorges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "reef",
+		  "plural" : "reefs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "atoll",
+		  "plural" : "atolls",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pit",
+		  "plural" : "pits",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "catacomb",
+		  "plural" : "catacombs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "necropolis",
+		  "plural" : "necropoliss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "crypt",
+		  "plural" : "crypts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "quarry",
+		  "plural" : "quarries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "salvage",
+		  "plural" : "salvages",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "caldera",
+		  "plural" : "calderas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "depth",
+		  "plural" : "depths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "shore",
+		  "plural" : "shores",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "citadel",
+		  "plural" : "citadels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "desert",
+		  "plural" : "deserts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "lighthouse",
+		  "plural" : "lighthouses",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "valley",
+		  "plural" : "valleies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "aqueduct",
+		  "plural" : "aqueducts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "backwater",
+		  "plural" : "backwaters",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "volcano",
+		  "plural" : "volcanos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "statuary",
+		  "plural" : "statuaries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "reef",
+		  "plural" : "reefs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "house",
+		  "plural" : "houses",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "hold",
+		  "plural" : "holds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ruin",
+		  "plural" : "ruins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "castle",
+		  "plural" : "castles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "elephant",
+		  "plural" : "elephants",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "graveyard",
+		  "plural" : "graveyards",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "palace",
+		  "plural" : "palaces",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sky",
+		  "plural" : "skies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ruin",
+		  "plural" : "ruins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "panorama",
+		  "plural" : "panoramas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "everglade",
+		  "plural" : "everglades",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "thicket",
+		  "plural" : "thickets",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "village",
+		  "plural" : "villages",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "flood",
+		  "plural" : "floods",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "plain",
+		  "plural" : "plains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "strand",
+		  "plural" : "strands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "watchtower",
+		  "plural" : "watchtowers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ruin",
+		  "plural" : "ruins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "forest",
+		  "plural" : "forests",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cave",
+		  "plural" : "caves",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "city",
+		  "plural" : "cities",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sanctuary",
+		  "plural" : "sanctuaries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "village",
+		  "plural" : "villages",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "orchard",
+		  "plural" : "orchards",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "foundry",
+		  "plural" : "foundries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "fountain",
+		  "plural" : "fountains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "frontier",
+		  "plural" : "frontiers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "trail",
+		  "plural" : "trails",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "castle",
+		  "plural" : "castles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "crevice",
+		  "plural" : "crevices",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "quarter",
+		  "plural" : "quarters",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "palace",
+		  "plural" : "palaces",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "chasm",
+		  "plural" : "chasms",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "fortress",
+		  "plural" : "fortresss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "burrow",
+		  "plural" : "burrows",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "shrine",
+		  "plural" : "shrines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "gate",
+		  "plural" : "gates",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "colosseum",
+		  "plural" : "colosseums",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "grassland",
+		  "plural" : "grasslands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cairn",
+		  "plural" : "cairns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "furnace",
+		  "plural" : "furnaces",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "backwoods",
+		  "plural" : "backwoods",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "panorama",
+		  "plural" : "panoramas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "guardian",
+		  "plural" : "guardians",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "turf",
+		  "plural" : "turfs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "depth",
+		  "plural" : "depths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "fountain",
+		  "plural" : "fountains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "hall",
+		  "plural" : "halls",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "battlefield",
+		  "plural" : "battlefields",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "battleground",
+		  "plural" : "battlegrounds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "woodlot",
+		  "plural" : "woodlots",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "market",
+		  "plural" : "markets",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "hinterland",
+		  "plural" : "hinterlands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "harbor",
+		  "plural" : "harbors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "quagmire",
+		  "plural" : "quagmires",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "holdout",
+		  "plural" : "holdouts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "settlement",
+		  "plural" : "settlements",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tree",
+		  "plural" : "trees",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "path",
+		  "plural" : "paths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "store",
+		  "plural" : "stores",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "nexus",
+		  "plural" : "nexuss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "irrigation",
+		  "plural" : "irrigations",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ditch",
+		  "plural" : "ditchs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "island",
+		  "plural" : "islands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "chapel",
+		  "plural" : "chapels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "panorama",
+		  "plural" : "panoramas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "jungle",
+		  "plural" : "jungles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "basin",
+		  "plural" : "basins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "jungle",
+		  "plural" : "jungles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "shrine",
+		  "plural" : "shrines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "isle",
+		  "plural" : "isles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "forest",
+		  "plural" : "forests",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "megalith",
+		  "plural" : "megaliths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "necropolis",
+		  "plural" : "necropoliss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "garden",
+		  "plural" : "gardens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "keep",
+		  "plural" : "keeps",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "outpost",
+		  "plural" : "outposts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "keep",
+		  "plural" : "keeps",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "land",
+		  "plural" : "lands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "graveyard",
+		  "plural" : "graveyards",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "swamp",
+		  "plural" : "swamps",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "library",
+		  "plural" : "libraries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sandbar",
+		  "plural" : "sandbars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "flat",
+		  "plural" : "flats",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "maze",
+		  "plural" : "mazes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "bazaar",
+		  "plural" : "bazaars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "meteor",
+		  "plural" : "meteors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "crater",
+		  "plural" : "craters",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "school",
+		  "plural" : "schools",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "water",
+		  "plural" : "waters",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "well",
+		  "plural" : "wells",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "core",
+		  "plural" : "cores",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "factory",
+		  "plural" : "factories",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "workshop",
+		  "plural" : "workshops",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "rainforest",
+		  "plural" : "rainforests",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "hollow",
+		  "plural" : "hollows",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "mortuary",
+		  "plural" : "mortuaries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "mire",
+		  "plural" : "mires",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "valley",
+		  "plural" : "valleies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "bridge",
+		  "plural" : "bridges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "mountain",
+		  "plural" : "mountains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "valley",
+		  "plural" : "valleies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "mouth",
+		  "plural" : "mouths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "gate",
+		  "plural" : "gates",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "monastery",
+		  "plural" : "monasteries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "maze",
+		  "plural" : "mazes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "panorama",
+		  "plural" : "panoramas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "outpost",
+		  "plural" : "outposts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "stadium",
+		  "plural" : "stadiums",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "shrine",
+		  "plural" : "shrines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "oasis",
+		  "plural" : "oasiss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "palace",
+		  "plural" : "palaces",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "palace",
+		  "plural" : "palaces",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "basilica",
+		  "plural" : "basilicas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "church",
+		  "plural" : "churchs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tomb",
+		  "plural" : "tombs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "city",
+		  "plural" : "cities",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "bog",
+		  "plural" : "bogs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pillar",
+		  "plural" : "pillars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pine",
+		  "plural" : "pines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ridge",
+		  "plural" : "ridges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "plateau",
+		  "plural" : "plateaus",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "mire",
+		  "plural" : "mires",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "spire",
+		  "plural" : "spires",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "prairie",
+		  "plural" : "prairies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "lair",
+		  "plural" : "lairs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "fountain",
+		  "plural" : "fountains",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ravine",
+		  "plural" : "ravines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "rainbow",
+		  "plural" : "rainbows",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "edge",
+		  "plural" : "edges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "thicket",
+		  "plural" : "thickets",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pool",
+		  "plural" : "pools",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tower",
+		  "plural" : "towers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "farm",
+		  "plural" : "farms",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "isle",
+		  "plural" : "isles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cave",
+		  "plural" : "caves",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "portal",
+		  "plural" : "portals",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tear",
+		  "plural" : "tears",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "dungeon",
+		  "plural" : "dungeons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "palace",
+		  "plural" : "palaces",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pit",
+		  "plural" : "pits",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "passage",
+		  "plural" : "passages",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "depth",
+		  "plural" : "depths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "highland",
+		  "plural" : "highlands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "prairie",
+		  "plural" : "prairies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ruin",
+		  "plural" : "ruins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "rupture",
+		  "plural" : "ruptures",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "spire",
+		  "plural" : "spires",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "foundry",
+		  "plural" : "foundries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "haven",
+		  "plural" : "havens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "salt flat",
+		  "plural" : "salt flats",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "steppe",
+		  "plural" : "steppes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sanctum",
+		  "plural" : "sanctums",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "dune",
+		  "plural" : "dunes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "silo",
+		  "plural" : "silos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "citadel",
+		  "plural" : "citadels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sandstone",
+		  "plural" : "sandstones",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "bridge",
+		  "plural" : "bridges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "needle",
+		  "plural" : "needles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cove",
+		  "plural" : "coves",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "forest",
+		  "plural" : "forests",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tarn",
+		  "plural" : "tarns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ruin",
+		  "plural" : "ruins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "gate",
+		  "plural" : "gates",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "wreckage",
+		  "plural" : "wreckages",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "quay",
+		  "plural" : "quaies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "seafloor",
+		  "plural" : "seafloors",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "debris",
+		  "plural" : "debriss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "citadel",
+		  "plural" : "citadels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "seaside",
+		  "plural" : "seasides",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "haven",
+		  "plural" : "havens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "seat",
+		  "plural" : "seats",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "steppe",
+		  "plural" : "steppes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sanctuary",
+		  "plural" : "sanctuaries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sanctuary",
+		  "plural" : "sanctuaries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sanctum",
+		  "plural" : "sanctums",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ridge",
+		  "plural" : "ridges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "vent",
+		  "plural" : "vents",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "isle",
+		  "plural" : "isles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "valley",
+		  "plural" : "valleies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "grotto",
+		  "plural" : "grottos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "keep",
+		  "plural" : "keeps",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "gorge",
+		  "plural" : "gorges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "oasis",
+		  "plural" : "oasiss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "reef",
+		  "plural" : "reefs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "storehouse",
+		  "plural" : "storehouses",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "shrine",
+		  "plural" : "shrines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "chamber",
+		  "plural" : "chambers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pit",
+		  "plural" : "pits",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "expanse",
+		  "plural" : "expanses",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "forest",
+		  "plural" : "forests",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "crater",
+		  "plural" : "craters",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "spire",
+		  "plural" : "spires",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "forest",
+		  "plural" : "forests",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "swamp",
+		  "plural" : "swamps",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "excavation",
+		  "plural" : "excavations",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pool",
+		  "plural" : "pools",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "knoll",
+		  "plural" : "knolls",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pasture",
+		  "plural" : "pastures",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sanctum",
+		  "plural" : "sanctums",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "steam",
+		  "plural" : "steams",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "vent",
+		  "plural" : "vents",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "wildwood",
+		  "plural" : "wildwoods",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "quarry",
+		  "plural" : "quarries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "strip",
+		  "plural" : "strips",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "boneyard",
+		  "plural" : "boneyards",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "vent",
+		  "plural" : "vents",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "prairie",
+		  "plural" : "prairies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "fortress",
+		  "plural" : "fortresss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "legion",
+		  "plural" : "legions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ruin",
+		  "plural" : "ruins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tomb",
+		  "plural" : "tombs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "swamp",
+		  "plural" : "swamps",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "isle",
+		  "plural" : "isles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "peak",
+		  "plural" : "peaks",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "citadel",
+		  "plural" : "citadels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "peak",
+		  "plural" : "peaks",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "isle",
+		  "plural" : "isles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "temple",
+		  "plural" : "temples",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "silence",
+		  "plural" : "silences",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "temple",
+		  "plural" : "temples",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "bridge",
+		  "plural" : "bridges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "moraine",
+		  "plural" : "moraines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "expanse",
+		  "plural" : "expanses",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "lowland",
+		  "plural" : "lowlands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "glacier",
+		  "plural" : "glaciers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tabernacle",
+		  "plural" : "tabernacles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "quarry",
+		  "plural" : "quarries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "timber",
+		  "plural" : "timbers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "gorge",
+		  "plural" : "gorges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "timberland",
+		  "plural" : "timberlands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ruin",
+		  "plural" : "ruins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "timberline",
+		  "plural" : "timberlines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ridge",
+		  "plural" : "ridges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "academy",
+		  "plural" : "academies",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tomb",
+		  "plural" : "tombs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tower",
+		  "plural" : "towers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cove",
+		  "plural" : "coves",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "expanse",
+		  "plural" : "expanses",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "garden",
+		  "plural" : "gardens",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "thicket",
+		  "plural" : "thickets",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "promenade",
+		  "plural" : "promenades",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tree",
+		  "plural" : "trees",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "treetop",
+		  "plural" : "treetops",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "village",
+		  "plural" : "villages",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sink",
+		  "plural" : "sinks",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "ruin",
+		  "plural" : "ruins",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "island",
+		  "plural" : "islands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tundra",
+		  "plural" : "tundras",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "mire",
+		  "plural" : "mires",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "river",
+		  "plural" : "rivers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sea",
+		  "plural" : "seas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "paradise",
+		  "plural" : "paradises",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "citadel",
+		  "plural" : "citadels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "grotto",
+		  "plural" : "grottos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "shore",
+		  "plural" : "shores",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "frontier",
+		  "plural" : "frontiers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cloud",
+		  "plural" : "clouds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "keep",
+		  "plural" : "keeps",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "volcano",
+		  "plural" : "volcanos",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tomb",
+		  "plural" : "tombs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "factory",
+		  "plural" : "factories",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "mine",
+		  "plural" : "mines",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "plant",
+		  "plural" : "plants",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "tower",
+		  "plural" : "towers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "pinnacle",
+		  "plural" : "pinnacles",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "veldt",
+		  "plural" : "veldts",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "creek",
+		  "plural" : "creeks",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "grove",
+		  "plural" : "groves",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "marsh",
+		  "plural" : "marshs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "meadow",
+		  "plural" : "meadows",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "stronghold",
+		  "plural" : "strongholds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "hub",
+		  "plural" : "hubs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "landscape",
+		  "plural" : "landscapes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "wasteland",
+		  "plural" : "wastelands",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "waste",
+		  "plural" : "wastes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "grave",
+		  "plural" : "graves",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "height",
+		  "plural" : "heights",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "canyon",
+		  "plural" : "canyons",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "crag",
+		  "plural" : "crags",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "lodge",
+		  "plural" : "lodges",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "bastion",
+		  "plural" : "bastions",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "foothill",
+		  "plural" : "foothills",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cemetery",
+		  "plural" : "cemeteries",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "stream",
+		  "plural" : "streams",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG", "WATER", "NATURE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "cavern",
+		  "plural" : "caverns",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PLACE", "MTG"],
+		  "frequency" : "COMMON"
+		},
+	]
+}

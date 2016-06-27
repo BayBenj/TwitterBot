@@ -1,0 +1,1181 @@
+{ "words" : [	
+				{
+		  "singular" : "Afrit",
+		  "plural" : "Afrits",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Basilisk",
+		  "plural" : "Basilisks",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Brownie",
+		  "plural" : "Brownies",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Centaur",
+		  "plural" : "Centaurs",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Demon",
+		  "plural" : "Demons",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Djin",
+		  "plural" : "Djinni",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Dragon",
+		  "plural" : "Dragons",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dwarf",
+		  "plural" : "Dwarves",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elf",
+		  "plural" : "Elves",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ettin",
+		  "plural" : "Ettins",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Faun",
+		  "plural" : "Fauns",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Gargoyle",
+		  "plural" : "Gargoyles",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Giant",
+		  "plural" : "Giants",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Titan",
+		  "plural" : "Titans",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Golem",
+		  "plural" : "Golems",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Gnome",
+		  "plural" : "Gnomes",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Griffin",
+		  "plural" : "Griffins",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Grotesque",
+		  "plural" : "Grotesques",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Harpy",
+		  "plural" : "Harpies",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY", "FEMALE"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Hippogriff",
+		  "plural" : "Hippogriffs",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Hydra",
+		  "plural" : "Hydras",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Incubus",
+		  "plural" : "Incubi",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY", "MALE"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Succubus",
+		  "plural" : "Succubui",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY", "FEMALE"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Kelpie",
+		  "plural" : "Kelpies",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Kobold",
+		  "plural" : "Kobolds",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Kraken",
+		  "plural" : "Krakens",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lamassu",
+		  "plural" : "***",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Leshy",
+		  "plural" : "Leshies",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Leprechaun",
+		  "plural" : "Leprechauns",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Leucrotta",
+		  "plural" : "Leucrottas",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Leviathan",
+		  "plural" : "Leviathans",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Gorgon",
+		  "plural" : "Gorgons",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Mermaid",
+		  "plural" : "Mermaids",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Merman",
+		  "plural" : "Mermen",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY", "MALE"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Minotaur",
+		  "plural" : "Minotaurs",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Naga",
+		  "plural" : "Nagas",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Naiad",
+		  "plural" : "Naiads",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Nixie",
+		  "plural" : "Nixies",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Ogre",
+		  "plural" : "Ogres",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Pegasus",
+		  "plural" : "Pegasi",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Phoenix",
+		  "plural" : "Phoenixes",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Pooka",
+		  "plural" : "Pookas",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Roc",
+		  "plural" : "Rocs",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Satyr",
+		  "plural" : "Satyrs",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Siren",
+		  "plural" : "",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sphinx",
+		  "plural" : "Sphinxes",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Troll",
+		  "plural" : "Trolls",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Unicorn",
+		  "plural" : "Unicorns",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vampire",
+		  "plural" : "Vampires",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Will-o'-the-wisp",
+		  "plural" : "Will-o'-the-wisps",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Wyvern",
+		  "plural" : "Wyverns",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Zombie",
+		  "plural" : "Zombies",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Skeleton",
+		  "plural" : "Skeletons",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lich",
+		  "plural" : "Liches",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Banshee",
+		  "plural" : "Banshees",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Ghoul",
+		  "plural" : "Ghouls",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ghast",
+		  "plural" : "Ghasts",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Spectre",
+		  "plural" : "Spectres",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Geist",
+		  "plural" : "Geists",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Ghost",
+		  "plural" : "Ghosts",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Duppy",
+		  "plural" : "Duppies",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Spirit",
+		  "plural" : "Spirits",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Apparition",
+		  "plural" : "Apparitions",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Ent",
+		  "plural" : "Ents",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Warg",
+		  "plural" : "Wargs",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Hobbit",
+		  "plural" : "Hobbits",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Balrog",
+		  "plural" : "Balrogs",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "Goblin",
+		  "plural" : "Goblins",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Orc",
+		  "plural" : "Orcs",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Uruk",
+		  "plural" : "Uruk-hai",
+		  "partofspeech" : "noun",
+		  "tags" : ["MONSTER", "FANTASY"],
+		  "frequency" : "UNCOMMON"
+		},
+
+
+
+
+
+
+
+
+
+		{
+		  "singular" : "Village",
+		  "plural" : "Villages",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Town",
+		  "plural" : "Towns",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "City",
+		  "plural" : "Cities",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Castle",
+		  "plural" : "Castles",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fortress",
+		  "plural" : "Fortresses",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dungeon",
+		  "plural" : "Dungeons",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tower",
+		  "plural" : "Towers",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Library",
+		  "plural" : "Libraries",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hall",
+		  "plural" : "Halls",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Inn",
+		  "plural" : "Inns",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Land",
+		  "plural" : "Lands",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Kingdom",
+		  "plural" : "Kingdoms",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Country",
+		  "plural" : "Countries",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Duchy",
+		  "plural" : "Duchies",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Estate",
+		  "plural" : "Estates",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Province",
+		  "plural" : "Provinces",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Fief",
+		  "plural" : "Fiefs",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "House",
+		  "plural" : "Houses",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Domain",
+		  "plural" : "Domains",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dominion",
+		  "plural" : "Dominions",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "PLACE"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{
+		  "presentfirstsing" : "go",
+		  "presentfirstplur" : "go",
+		  "presentsecond" : "go",
+		  "presentthirdsing" : "goes",
+		  "presentthirdplur" : "go",
+
+
+		  "past" : "went",
+		  "gerund" : "going",
+		  "participle" : "gone",
+		  "partofspeech" : "verb",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{
+		  "presentfirstsing" : "am",
+		  "presentfirstplur" : "are",
+		  "presentsecond" : "are",
+		  "presentthirdsing" : "is",
+		  "presentthirdplur" : "are",
+
+		  "pastfirstsing" : "was",
+		  "pastfirstplur" : "were",
+		  "pastsecond" : "were",
+		  "pastthirdsing" : "was",
+		  "pastthirdplur" : "were",
+
+
+		  "past" : "went",
+		  "gerund" : "going",
+		  "participle" : "gone",
+		  "partofspeech" : "verb",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{
+		  "singular" : "nightfall",
+		  "plural" : "nightfalls",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "night",
+		  "plural" : "nights",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "nighttime",
+		  "plural" : "nighttimes",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "eve",
+		  "plural" : "eves",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "even",
+		  "plural" : "evens",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "eventide",
+		  "plural" : "eventides",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "singular" : "evening",
+		  "plural" : "evenings",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "dusk",
+		  "plural" : "dusks",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sunset",
+		  "plural" : "sunsets ",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "sundown",
+		  "plural" : "sundowns",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "day's end",
+		  "plural" : "day's ends",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "midnight",
+		  "plural" : "midnights",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "dawn",
+		  "plural" : "dawns",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "morn",
+		  "plural" : "morns",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "morning",
+		  "plural" : "mornings",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "daybreak",
+		  "plural" : "daybreaks",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "morningtide",
+		  "plural" : "morningtides",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "day",
+		  "plural" : "days",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "midday",
+		  "plural" : "middays",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "noon",
+		  "plural" : "noons",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "nightfall",
+		  "plural" : "nightfalls",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "twilight",
+		  "plural" : "twilights",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "afternoon",
+		  "plural" : "afternoons",
+		  "partofspeech" : "noun",
+		  "tags" : ["FANTASY", "TIME"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+		{
+		  "text" : "Red",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Orange",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "YelUNCOMMON",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Green",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Blue",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Violet",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Indigo",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Purple",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Black",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "White",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Azure",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Verdant",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Teal",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Umber",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Viridian",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Virid",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Russet",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Saffron",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Auburn",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Brown",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Dark",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Crimson",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Gold",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Silver",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Scarlet",
+		  "partofspeech" : "adjective",
+		  "tags" : ["COLOR"],
+		  "frequency" : "COMMON"
+		},
+
+
+
+
+
+
+
+
+
+
+		{
+		  "text" : "Light",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Bright",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Brilliant",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Shining",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Lustrous",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Luminous",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "UNCOMMON"
+		},
+		{
+		  "text" : "Gleaming",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Light",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+
+
+		{
+		  "text" : "Dark",
+		  "partofspeech" : "adjective",
+		  "tags" : ["SIGHT"],
+		  "frequency" : "COMMON"
+		},
+
+
+		{
+		  "text" : "Evil",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Deadly",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Forsaken",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Vicious",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Infamous",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Abandoned",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Mad",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Crazed",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Vengeful",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "Wicked",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+		  "text" : "Tortured",
+		  "partofspeech" : "adjective",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		}
+
+
+
+
+
+
+
+	]
+}

@@ -1,0 +1,1150 @@
+{ "words" : [
+		{
+		  "singular" : "Abi",
+		  "plural" : "Abis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Abia",
+		  "plural" : "Abias",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Abiah",
+		  "plural" : "Abiahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Abigail",
+		  "plural" : "Abigails",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Abihail",
+		  "plural" : "Abihails",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Abijah",
+		  "plural" : "Abijahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Abishag",
+		  "plural" : "Abishags",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Abital",
+		  "plural" : "Abitals",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Achsah",
+		  "plural" : "Achsahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Adah",
+		  "plural" : "Adahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Agar",
+		  "plural" : "Agars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ahinoam",
+		  "plural" : "Ahinoams",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ahlai",
+		  "plural" : "Ahlais",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Anah",
+		  "plural" : "Anahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Anna",
+		  "plural" : "Annas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Apphia",
+		  "plural" : "Apphias",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Asenath",
+		  "plural" : "Asenaths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Atarah",
+		  "plural" : "Atarahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Athaliah",
+		  "plural" : "Athaliahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Azubah",
+		  "plural" : "Azubahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Baara",
+		  "plural" : "Baaras",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bashemath",
+		  "plural" : "Bashemaths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Basemeth",
+		  "plural" : "Basemeths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Basmath",
+		  "plural" : "Basmaths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bathsheba",
+		  "plural" : "Bathshebas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bernice",
+		  "plural" : "Bernices",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bilhah",
+		  "plural" : "Bilhahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Bithiah",
+		  "plural" : "Bithiahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Candace",
+		  "plural" : "Candaces",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Chloe",
+		  "plural" : "Chloes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Claudia",
+		  "plural" : "Claudias",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Cozbi",
+		  "plural" : "Cozbis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Damaris",
+		  "plural" : "Damariss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Deborah",
+		  "plural" : "Deborahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Delilah",
+		  "plural" : "Delilahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dinah",
+		  "plural" : "Dinahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Dorcas",
+		  "plural" : "Dorcass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Drusilla",
+		  "plural" : "Drusillas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eglah",
+		  "plural" : "Eglahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elisabeth",
+		  "plural" : "Elisabeths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Elisheba",
+		  "plural" : "Elishebas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ephah",
+		  "plural" : "Ephahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ephrath",
+		  "plural" : "Ephraths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Esther",
+		  "plural" : "Esthers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Eunice",
+		  "plural" : "Eunices",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Euodias",
+		  "plural" : "Euodiass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Gomer",
+		  "plural" : "Gomers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hadassah",
+		  "plural" : "Hadassahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hagar",
+		  "plural" : "Hagars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Haggith",
+		  "plural" : "Haggiths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hammoleketh",
+		  "plural" : "Hammolekeths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hammolecheth",
+		  "plural" : "Hammolecheths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hamutal",
+		  "plural" : "Hamutals",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hannah",
+		  "plural" : "Hannahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hazelelponi",
+		  "plural" : "Hazelelponis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zelelponi",
+		  "plural" : "Zelelponis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Helah",
+		  "plural" : "Helahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hephzibah",
+		  "plural" : "Hephzibahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Herodias",
+		  "plural" : "Herodiass",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hodesh",
+		  "plural" : "Hodeshs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hodiah",
+		  "plural" : "Hodiahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hoglah",
+		  "plural" : "Hoglahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Huldah",
+		  "plural" : "Huldahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Hushim",
+		  "plural" : "Hushims",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Iscah",
+		  "plural" : "Iscahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jael",
+		  "plural" : "Jaels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jecholiah",
+		  "plural" : "Jecholiahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jecoliah",
+		  "plural" : "Jecoliahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jedidah",
+		  "plural" : "Jedidahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jedida",
+		  "plural" : "Jedidas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jehoaddan",
+		  "plural" : "Jehoaddans",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jehosheba",
+		  "plural" : "Jehoshebas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jehoshabeath",
+		  "plural" : "Jehoshabeaths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jehodijah",
+		  "plural" : "Jehodijahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jemima",
+		  "plural" : "Jemimas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jerioth",
+		  "plural" : "Jerioths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jerusha",
+		  "plural" : "Jerushas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jerushah",
+		  "plural" : "Jerushahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jezebel",
+		  "plural" : "Jezebels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Joanna",
+		  "plural" : "Joannas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Jochebed",
+		  "plural" : "Jochebeds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Judah",
+		  "plural" : "Judahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Judith",
+		  "plural" : "Judiths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Julia",
+		  "plural" : "Julias",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Keren-Happuch",
+		  "plural" : "Keren-Happuchs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Keturah",
+		  "plural" : "Keturahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Kezia",
+		  "plural" : "Kezias",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Leah",
+		  "plural" : "Leahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lois",
+		  "plural" : "Loiss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lo-Ruhamah",
+		  "plural" : "Lo-Ruhamahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Lydia",
+		  "plural" : "Lydias",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Maachah",
+		  "plural" : "Maachahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mahalah",
+		  "plural" : "Mahalahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mahlah",
+		  "plural" : "Mahlahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mara",
+		  "plural" : "Maras",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Martha",
+		  "plural" : "Marthas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mary",
+		  "plural" : "Marys",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Matred",
+		  "plural" : "Matreds",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Mehetabel",
+		  "plural" : "Mehetabels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Merab",
+		  "plural" : "Merabs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Meshullemeth",
+		  "plural" : "Meshullemeths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Michaiah",
+		  "plural" : "Michaiahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Michal",
+		  "plural" : "Michals",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Milcah",
+		  "plural" : "Milcahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Naamah",
+		  "plural" : "Naamahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Naarah",
+		  "plural" : "Naarahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Naomi",
+		  "plural" : "Naomis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Nehushta",
+		  "plural" : "Nehushtas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Noadiah",
+		  "plural" : "Noadiahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Noah",
+		  "plural" : "Noahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Oholibamah",
+		  "plural" : "Oholibamahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Orpah",
+		  "plural" : "Orpahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Peninnah",
+		  "plural" : "Peninnahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Persis",
+		  "plural" : "Persiss",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Phanuel",
+		  "plural" : "Phanuels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Phebe",
+		  "plural" : "Phebes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Phoebe",
+		  "plural" : "Phoebes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Prisca",
+		  "plural" : "Priscas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Priscilla",
+		  "plural" : "Priscillas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Puah",
+		  "plural" : "Puahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rachel",
+		  "plural" : "Rachels",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rahab",
+		  "plural" : "Rahabs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rebekah",
+		  "plural" : "Rebekahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rebecca",
+		  "plural" : "Rebeccas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Reumah",
+		  "plural" : "Reumahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rhoda",
+		  "plural" : "Rhodas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Rizpah",
+		  "plural" : "Rizpahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Ruth",
+		  "plural" : "Ruths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Salome",
+		  "plural" : "Salomes",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sapphira",
+		  "plural" : "Sapphiras",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sarah",
+		  "plural" : "Sarahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sarai",
+		  "plural" : "Sarais",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sara",
+		  "plural" : "Saras",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Serah",
+		  "plural" : "Serahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shelomith",
+		  "plural" : "Shelomiths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sherah",
+		  "plural" : "Sherahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Sheerah",
+		  "plural" : "Sheerahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shimeath",
+		  "plural" : "Shimeaths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shimrith",
+		  "plural" : "Shimriths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shiphrah",
+		  "plural" : "Shiphrahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shomer",
+		  "plural" : "Shomers",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Shua",
+		  "plural" : "Shuas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Susanna",
+		  "plural" : "Susannas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Syntyche",
+		  "plural" : "Syntyches",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tabitha",
+		  "plural" : "Tabithas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tahpenes",
+		  "plural" : "Tahpeness",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tamar",
+		  "plural" : "Tamars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Taphath",
+		  "plural" : "Taphaths",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Thamar",
+		  "plural" : "Thamars",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Timna",
+		  "plural" : "Timnas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tirzah",
+		  "plural" : "Tirzahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tryphena",
+		  "plural" : "Tryphenas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Tryphosa",
+		  "plural" : "Tryphosas",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Vashti",
+		  "plural" : "Vashtis",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zebudah",
+		  "plural" : "Zebudahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zebidah",
+		  "plural" : "Zebidahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zeresh",
+		  "plural" : "Zereshs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zeruah",
+		  "plural" : "Zeruahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zeruiah",
+		  "plural" : "Zeruiahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zibiah",
+		  "plural" : "Zibiahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zillah",
+		  "plural" : "Zillahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zilpah",
+		  "plural" : "Zilpahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "singular" : "Zipporah",
+		  "plural" : "Zipporahs",
+		  "partofspeech" : "NOUN",
+		  "tags" : ["PROPER", "BIBLE", "FEMALE"],
+		  "frequency" : "COMMON"
+		},
+		{
+		  "text" : "delete this",
+		  "partofspeech" : "ARTICLE",
+		  "tags" : ["NA"],
+		  "frequency" : "COMMON"
+		},
+	]
+}
